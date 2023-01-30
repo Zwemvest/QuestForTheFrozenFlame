@@ -1,5 +1,5 @@
 # Session 1
-Present: [[Xiat]], [[Kaska]], [[Willow]]
+Present: [[Xiat]], [[Kaska]], [[Willow]]  
 Absent: [[Cali]]
 ## 29 Abadius 4072
 It is winter in the [[Realm_of_the_Mammoth_Lords]]. We're members of the [[Broken_Tusk]], and we're being trained to become scouts by [[Wipa]], though she has recently taken a break from this because of her advanced pregnancy. Instead, our fellow scout trainee [[Pakano]] has temporarily agreed to help us... as far as you can talk about "agree" instead of "being forced to by [[Wipa]]"
