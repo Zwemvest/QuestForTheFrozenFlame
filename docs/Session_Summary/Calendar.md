@@ -6,8 +6,8 @@
 |  ||[[Xiat]] is banished from the Iruxi and forced to wander the Realms of the [[Mammoth_Lord]]s    |
 | ||[[Xiat]] is accepted into the [[Broken_Tusk]]                                                   |
 | || [[Wipa]]  is assigned to train [[Willow]], [[Kaska]], [[Cali]] , and [[Xiat]]  to become scouts |
-| || [[Wipa]] becomes pregnant. [[💀Weohotan]] is the father.                                        |
-| || [[💀Weohotan]] dies in a hunting accident                                                       |
+| || [[Wipa]] becomes pregnant. [[Weohotan]] is the father.                                        |
+| || [[Weohotan]] dies in a hunting accident                                                       |
 
 ## 4722
 ### Abadius
