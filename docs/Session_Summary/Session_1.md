@@ -1,6 +1,7 @@
+# Session 1
 Present: [[Xiat]], [[Kaska]], [[Willow]]
 Absent: [[Cali]]
-# 29 Abadius 4072
+## 29 Abadius 4072
 It is winter in the [[Realm_of_the_Mammoth_Lords]]. We're members of the [[Broken_Tusk]], and we're being trained to become scouts by [[Wipa]], though she has recently taken a break from this because of her advanced pregnancy. Instead, our fellow scout trainee [[Pakano]] has temporarily agreed to help us... as far as you can talk about "agree" instead of "being forced to by [[Wipa]]"
 
 Our task today is to hunt a giant moose. The moose was standing in sort of an open field, while we were trying to sneak up on it via high grass and bushes. Our first attempt would be to have [[Kaska]] move towards the moose, with a few potions from [[Willow]], and try to calm it. I couldn't contribute much here, my armor is too heavy for sneaky stuff, but that plan didn't work out too well anyways. It seemed the moose was more hostile than we anticipated. Now we had to save [[Kaska]] from the moose!
@@ -28,7 +29,7 @@ The last task is the cleaning of the [[Rock_loom]]. Since nobody visits the Rock
 
 With that being said, we went to bed for a long rest. There's a long day of catching tapirs ahead of us tomorrow.
 
-# 30 Abadius 4072
+## 30 Abadius 4072
 
 We got up early, in preperations for our day. We would be guided by [[Imek]] for today, a young member of our tribe. [[Willow]] initially wanted to stay with the tribe, to help [[Wipa]], but sadly for her, nobody would allow it. [[Kaska]], in the end, decided to carry [[Willow]] underneath her arms.
 
