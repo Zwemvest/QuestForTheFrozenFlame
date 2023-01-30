@@ -2,12 +2,13 @@
 Tag: BrokenTusk
 Status: Alive
 ---
+# Grandfather Eiwa
 
 | Full Name            | Grandfather Eiwa                                                     |
 | -------------------- | -------------------------------------------------------------------- |
 | Pronouns             | He/him                                                               |
 | Ancestry             | Elvish                                                               |
-| Class/Occupation     | [[Mammoth Lord]], Wise old grandfather                               |
+| Class/Occupation     |  [[Mammoth_Lord]], Wise old grandfather                               |
 | Age                  | Decades                                                              |
 | Alignment            |                                                                      |
 | Deity                |                                                                      |

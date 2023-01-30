@@ -2,11 +2,13 @@
 Tag: BrokenTusk
 Status: Alive
 ---
+# Merthig the Firekeeper
+
 | Full Name            |                  |
 | -------------------- | ---------------- |
 | Pronouns             |                  |
 | Ancestry             |                  |
-| Class/Occupation     | [[Mammoth Lord]] |
+| Class/Occupation     |  [[Mammoth_Lord]]    
 | Age                  |                  |
 | Alignment            |                  |
 | Deity                |                  |

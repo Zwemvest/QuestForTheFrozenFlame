@@ -2,12 +2,12 @@
 # Before 4722
 | Day | Hyperlink  | Event                                                                                           |
 |  ---  | ---  | ---  | 
-| || [[Willow]] and [[Kaska]] are born into the [[Broken Tusk]]                                      |
-|  ||[[Xiat]] is banished from the Iruxi and forced to wander the Realms of the [[Mammoth Lord]]s    |
-| ||[[Xiat]] is accepted into the [[Broken Tusk]]                                                   |
-| || [[Wipa]]  is assigned to train [[Willow]], [[Kaska]], [[Cali]] , and [[Xiat]]  to become scouts |
-| || [[Wipa]] becomes pregnant. [[💀Weohotan]] is the father.                                        |
-| || [[💀Weohotan]] dies in a hunting accident                                                       |
+| || [[Backup/Backstory/Party Members/Willow]] and [[Backup/Backstory/Party Members/Kaska]] are born into the [[Broken_Tusk]]                                      |
+|  ||[[Backup/Backstory/Party Members/Xiat]] is banished from the Iruxi and forced to wander the Realms of the [[Backup/Backstory/Notions/Mammoth Lord]]s    |
+| ||[[Backup/Backstory/Party Members/Xiat]] is accepted into the [[Broken_Tusk]]                                                   |
+| || [[Backup/Backstory/NPC's/Broken Tusk/Wipa]]  is assigned to train [[Backup/Backstory/Party Members/Willow]], [[Backup/Backstory/Party Members/Kaska]], [[Backup/Backstory/Party Members/Cali]] , and [[Backup/Backstory/Party Members/Xiat]]  to become scouts |
+| || [[Backup/Backstory/NPC's/Broken Tusk/Wipa]] becomes pregnant. [[Backup/Backstory/NPC's/Broken Tusk/💀Weohotan]] is the father.                                        |
+| || [[Backup/Backstory/NPC's/Broken Tusk/💀Weohotan]] dies in a hunting accident                                                       |
 
 # 4722
 ## Abadius
@@ -19,7 +19,7 @@
 ## Calistril
 | Day | Hyperlink | Event                   |
 | --- | --------- | ----------------------- |
-| 2   |           | [[Green Moon Festival]] |
+| 2   |           | [[Backup/Backstory/Events/Green Moon Festival]] |
 
 
 

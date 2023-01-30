@@ -2,11 +2,14 @@
 Tag: BrokenTusk
 Status: Alive
 ---
+# Argakoa the Songsinger
+
+
 | Full Name            | Argakoa the Songsinger |
 | -------------------- | ---------------------- |
 | Pronouns             | She/her                |
 | Ancestry             |                        |
-| Class/Occupation     | [[Mammoth Lord]]       |
+| Class/Occupation     | [[Mammoth_Lord]]       |
 | Age                  |                        |
 | Alignment            |                        |
 | Deity                |                        |

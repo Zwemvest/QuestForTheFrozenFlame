@@ -2,6 +2,7 @@
 Tag: BrokenTusk
 Status: Dead
 ---
+# Weohotan 💀
 
 | Full Name            | Weohotan        |
 | -------------------- | --------------- |
@@ -13,4 +14,4 @@ Status: Dead
 | Deity                |                 |
 | Physical Description |                 |
 | Good at              |                 |
-| In Summary           |Best friend and the father of [[Wipa]]'s children. Died a few weeks ago in an accident while hunting aurochs with [[Pakano]]. |
+| In Summary           |Best friend and the father of [[Wipa]]'s children. Died a few weeks ago in an accident while hunting aurochs with [[questforthefrozenflame/docs/Backstory/NPCs/Broken_Tusk/Pakano]]. |
