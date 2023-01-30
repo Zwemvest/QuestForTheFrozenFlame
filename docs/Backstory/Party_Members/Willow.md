@@ -10,7 +10,7 @@ status: alive
 | Pronouns  | She/her                                  |
 | Ancestry  | Halfling                                 |
 | Class     |                                         |
-| Age       |                                         |
+| Age       | 25 |
 | Alignment |                                         |
 | Deity     |                                         |
 | Languages | [[Hallit]] |
