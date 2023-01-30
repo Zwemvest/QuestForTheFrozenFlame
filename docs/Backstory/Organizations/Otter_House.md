@@ -1,7 +1,7 @@
 ---
 Tag: Organization
 ---
-
+# Otter House
 One of the [[House]]s of the [[Broken_Tusk]] tribe. House members spend most of their time with one another, sharing duties, forming friend groups, and occupying the same communal sleeping tent. Houses are typically represented by animals who individually embody courage, cleverness, and resilience. Broken Tusks typically identify themselves with just one of the animals represented in their house, and their personal effects often feature that animal.
 
 Headed by [[Argakoa_the_Songsinger]].

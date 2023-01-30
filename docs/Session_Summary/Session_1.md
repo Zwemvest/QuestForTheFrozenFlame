@@ -12,12 +12,12 @@ Our task today is to hunt a giant moose. The moose was standing in sort of an op
 
 After a few more attacks, we managed to end the moose. It wasn't to be trifeled with and we all learned a valueable lesson about standing in the way of a moose. I thanked [[Desna]] for the gift of wonder and life, and said goodbye to the creature as it departed for new realms. I hope it understands that what we did is a necessity for the survival of our [[Broken_Tusk|tribe]] .
 
-We fully skinned the creature for its leather, its bones ([[Kaska]] in particular seemed interested in the bones. I wonder if she knows about Iruxi bone magic. I should talk to her about that some time.), and mostly importantly, it's meat. We decided to haul it all back to camp, and learned a valueable lesson about the best and most efficient use of a hunted animal's carcass. <font style="color:orangered">We all gained the "[All of the Animal](https://2e.aonprd.com/Feats.aspx?ID=3422)" feat</font>
+We fully skinned the creature for its leather, its bones ([[Willow]] in particular seemed interested in the bones. I wonder if she knows about Iruxi bone magic. I should talk to her about that some time.), it's antlers (which [[Kaska]] took), and mostly importantly, it's meat. We decided to haul it all back to camp, and learned a valueable lesson about the best and most efficient use of a hunted animal's carcass. <font style="color:orangered">We all gained the "[All of the Animal](https://2e.aonprd.com/Feats.aspx?ID=3422)" feat</font>
 
 When we arrived at the tribe, everyone was happy to see us. We celebrated in the evening while [[Wipa]] told us about the upcoming [[Green_Moon_Festival]], in 5 days time. We are to complete three tasks before then:
-- Catch Tapirs  
-- Get water  
-- Clean up the [[Rock_loom]], the location the festival will be held.  
+1. Catch Tapirs 
+2. Get water 
+3. Clean up the [[Rock_loom]], the location the festival will be held.
 
 All tasks take about a day to complete, so if we start tomorrow, it should just about work out. 
 
@@ -45,4 +45,4 @@ Just as we were about to leave, we heard some voices on the edge of the forest, 
 
 They shot [[Willow]] with an arrow, but other than that, [[Kaska]] and [[Xiat|me]] subdued the first warrior pretty fast. The second one fled the scene. We all decided to interrogate the first warrior, and [[Willow]] got pretty mad about being shot with an arrow. Oh boy, you should've seen her. I am so glad she's on our end, we had to calm the tapirs and convince them that [[Willow]] wasn't mad at _them_. I think even [[Kaska]] felt a bit intimidated. 
 
-The warrior explained something about being from a tribe that [[Ethgir_and_Syorn|split from ours]], before it died from their wounds. We headed back to camp with our newfound tapir-friends.
+The warrior explained something about being from a tribe that [[The_Schism|split from ours]], before it died from their wounds. We headed back to camp with our newfound tapir-friends.

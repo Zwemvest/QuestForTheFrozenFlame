@@ -1,15 +1,16 @@
 ---
 Tag: Organization
 ---
+# Broken Tusk
 **Full name: Banner of the Broken Tusk**
 
 Though those who call themselves “Broken Tusks” can trace their lineage back thousands of years, the banner of the Broken Tusk itself —which symbolizes the values of its followers— is fairly new. 
 
-Six generations ago, a terrible evil crawled from the earth and threatened the land. To stave off this evil, a few rebellious members of one following made a great sacrifice. The other members, feeling betrayed, took their banner with them, [[Ethgir_and_Syorn|forcing the rebels who remained to make a new name and identity for themselves]]. To symbolize their perseverance in the face of overwhelming odds, the rebels called themselves the Broken Tusk.
+Six generations ago, a terrible evil crawled from the earth and threatened the land. To stave off this evil, a few rebellious members of one following made a great sacrifice. The other members, feeling betrayed, took their banner with them, [[The_Schism|forcing the rebels who remained to make a new name and identity for themselves]]. To symbolize their perseverance in the face of overwhelming odds, the rebels called themselves the Broken Tusk.
 
 The [[Broken_Tusk]]’s patron deity is [[Sister_Cinder]]. The Broken Tusk [[following]] numbers 74.
 
-Throughout most of its history, the Broken Tusk and [[Ethgir_and_Syorn|their predecessors]] consisted primarily of [[Kellid_People|Kellid]] humans native to the Realm of the Mammoth Lords. Since the [[following]] began actively recruiting new followers, however, the ancestral makeup of the Broken Tusk has expanded to include many different types of people commonly found in northern Avistan. While [[Kellid_People|Kellid]]  still make up the majority of the following, the group currently also boasts a number of Ilverani elves and Snowborn half-elves, Ergaksen and Holtaksen dwarves, and Belkzen half-orcs.
+Throughout most of its history, the Broken Tusk and [[The_Schism|their predecessors]] consisted primarily of [[Kellid_People|Kellid]] humans native to the Realm of the Mammoth Lords. Since the [[following]] began actively recruiting new followers, however, the ancestral makeup of the Broken Tusk has expanded to include many different types of people commonly found in northern Avistan. While [[Kellid_People|Kellid]]  still make up the majority of the following, the group currently also boasts a number of Ilverani elves and Snowborn half-elves, Ergaksen and Holtaksen dwarves, and Belkzen half-orcs.
 
 The Broken Tusk is led by five [[Mammoth_Lord]]s: [[Argakoa_the_Songsinger]], her dour but willful husband [[Letsua]], [[Merthig_the_Firekeeper]], [[Nakta_the_Healer]], and wise old [[Grandfather_Eiwa]]. Of the five, Argakoa and Eiwa have filled their roles longest, followed by Merthig, Nakta, and Letsua.
 
