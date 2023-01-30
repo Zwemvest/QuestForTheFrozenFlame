@@ -16,10 +16,12 @@
 | 1   |                               | New Year |
 | 29  | [[Session_1#29 Abadius 4072]] | Hunting a giant elk |
 | 30  | [[Session_1#30 Abadius 4072]] | Taming some tapirs, attack by 2 warriors |
+
 ### Calistril
 | Day | Hyperlink | Event                   |
 | --- | --------- | ----------------------- |
 | 2   |           | [[Green_Moon_Festival]] |
+
 
 
 
