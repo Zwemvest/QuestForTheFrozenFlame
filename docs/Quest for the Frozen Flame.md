@@ -1,0 +1,1 @@
+Welcome to Xiat's notes for the Quest for the Frozen Flame! 

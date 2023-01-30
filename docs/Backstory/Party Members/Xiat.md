@@ -3,6 +3,8 @@ tag: player
 status: alive
 ---
 
+==**It's pronounced Ksi-at, not Shat**==
+
 | Full Name | Xiat'hrux-quxl                                                          |
 | --------- | ----------------------------------------------------------------------- |
 | Pronouns  | Preferably none, call me Xiat. Switching around pronouns is acceptable. |
