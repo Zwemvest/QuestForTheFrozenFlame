@@ -2,13 +2,13 @@
 tag: player
 status: alive
 ---
-
+# Cali
 | Full Name            | Caliburn "Cali" Valian |
 | -------------------- | ---------------------- |
 | Played by            | Aspen                  |
 | Pronouns             | He/him |
 | Ancestry             | Human                  |
-| Class/Occupation     | Thaumathurge           |
+| Class     | Thaumathurge           |
 | Age                  |                        |
 | Alignment            |                        |
 | Deity                |                        |
