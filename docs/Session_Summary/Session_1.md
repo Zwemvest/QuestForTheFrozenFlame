@@ -14,7 +14,7 @@ After a few more attacks, we managed to end the moose. It wasn't to be trifeled 
 
 We fully skinned the creature for its leather, its bones ([[Kaska]] in particular seemed interested in the bones. I wonder if she knows about Iruxi bone magic. I should talk to her about that some time.), and mostly importantly, it's meat. We decided to haul it all back to camp, and learned a valueable lesson about the best and most efficient use of a hunted animal's carcass. <font style="color:orangered">We all gained the "[All of the Animal](https://2e.aonprd.com/Feats.aspx?ID=3422)" feat</font>
 
-When we arrived at the tribe, everyone was happy to see us. We celebrated in the evening while [[Wipa]] told us about the upcoming [[Green_Moon_Festival]], in 5 days time. We are to complete three tasks before then:
+When we arrived at the tribe, everyone was happy to see us. We celebrated in the evening while [[Wipa]] told us about the upcoming [[Green Moon Festival]], in 5 days time. We are to complete three tasks before then:
 - Catch Tapirs
 - Get water
 - Clean up the [[Rock_loom]], the location the festival will be held.
