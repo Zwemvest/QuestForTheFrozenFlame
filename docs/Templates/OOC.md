@@ -1,1 +1,0 @@
-<font style="color:orangered">We all gained</font>
