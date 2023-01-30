@@ -8,7 +8,7 @@ Status: Alive
 | -------------------- | --- |
 | Pronouns             |     |
 | Ancestry             |     |
-| Class/Occupation     |  [[Mammoth_Lord]]    
+| Class/Occupation     |  [[Mammoth_Lord]], Leader of [[Moose_House]]    
 | Age                  |     |
 | Alignment            |     |
 | Deity                |     |

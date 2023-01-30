@@ -3,7 +3,7 @@ tag: player
 status: alive
 ---
 # Xiat
-==**It's pronounced Ksi-at, not Shat**==
+**/zi:æt/ or /ksiːat/, not \[si˨˩at\]**
 
 | Full Name            | Xiat'hrux-quxl                                                          |     |
 | -------------------- | ----------------------------------------------------------------------- | --- |
@@ -13,10 +13,9 @@ status: alive
 | Age                  | 22                                                                      |     |
 | Alignment            | Chaotic Good                                                            |     |
 | Deity                | Desna                                                                   |     |
+| Languages | [[Hallit]], Iruxi, Draconic |
 | Physical Description |                                                                         |     |
 | Good at              | Stargazing, missing hits, calming tapis                                 |     |
 | In Summary           |                                                                         |     |
 
-*Xiat's Note: It's me! Am I not the best?*
-
-
+*Xiat's Note: It's me!*

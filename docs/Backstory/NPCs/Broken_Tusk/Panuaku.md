@@ -8,7 +8,7 @@ status: alive
 | -------------------- | --- |
 | Pronouns             | She/her |
 | Ancestry             | Half-elf |
-| Class/Occupation     | One of the best hunters in the following |
+| Class/Occupation     | Megafauna Hunter (one of the best hunters in the following) |
 | Age                  |     |
 | Alignment            |     |
 | Deity                |     |

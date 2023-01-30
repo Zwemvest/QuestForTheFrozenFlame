@@ -13,6 +13,7 @@ status: alive
 | Age       |                                         |
 | Alignment |                                         |
 | Deity     |                                         |
+| Languages | [[Hallit]] |
 | Physical Description |                        |
 | Good at   |  Healing, being our terrifying mom figure |     |
 | In Summary           |                        |

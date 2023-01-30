@@ -12,6 +12,7 @@ status: alive
 | Age       |                               |     |
 | Alignment |                               |     |
 | Deity     |                               |     |
+| Languages | [[Hallit]] |
 | Physical Description |                        |
 | Good at   | Hitting things with two swords |     |
 | In Summary           |                        |

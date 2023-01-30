@@ -8,7 +8,7 @@ status: alive
 | -------------------- | --------------------------------------------------------------------- |
 | Pronouns             | She/her                                                               |
 | Ancestry             |                                                                       |
-| Class/Occupation     | Herder                                                                |
+| Class/Occupation     | Mammoth Herder                                                                |
 | Age                  |                                                                       |
 | Alignment            |                                                                       |
 | Deity                |                                                                       |
