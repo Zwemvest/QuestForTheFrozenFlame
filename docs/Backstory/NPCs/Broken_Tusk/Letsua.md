@@ -14,5 +14,5 @@ Status: Alive
 | Deity                |                                       |
 | Physical Description |                                       |
 | Good at              |                                       |
-| In Summary           | Husband to [[Argakoa_the_Songsinger]] |
+| In Summary           | Husband to [[Argakoa-the-Songsinger]] |
 

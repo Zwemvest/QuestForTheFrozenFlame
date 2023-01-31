@@ -22,7 +22,7 @@ Her best friend and the father of her children, [[Weohotan]], died a few weeks a
 
 In the meantime, others in the following, such as the spirited hunter Panuaku and the knowledgeable young herder Imek, will help further the characters’ training as scouts. As native [[Broken-Tusk]]s, these individuals can also teach the characters much about the history, customs, and values of the Broken Tusk [[Following|following]].
 
-Half-elf child of [[Argakoa_the_Songsinger|Argakoa]] and [[Letsua]]
+Half-elf child of [[Argakoa-the-Songsinger|Argakoa]] and [[Letsua]]
 
 
 *Xiat's Note: Very nice lady. Knows a lot about hunting, but mostly sticks to herself during her pregnancy.*

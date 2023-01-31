@@ -6,7 +6,7 @@ Each member of the [[Broken-Tusk]] [[following]] belongs to one of four differen
 
 Each house is represented by a triad of animals that individually embody courage, cleverness, and resilience. Broken Tusks typically identify themselves with just one of the three animals represented in their house, and their personal effects often feature that animal. The four houses, their leaders, and the animals that embody each house are as follows.
 
-• [[Falcon-House]] (headed by [[Grandfather_Eiwa|Eiwa]]), which includes hares and glyptodons.  
-• [[Moose-House]] (headed by [[Nakta_the_Healer|Nakta]]), which includes bears and ravens.  
-• [[Musk-Ox-House]] (headed by [[Merthig_the_Firekeeper|Merthig]]), which includes saber-toothed tigers and bighorn sheep.  
-• [[Otter-House]] (headed by [[Argakoa_the_Songsinger|Argakoa]]), which includes wolves and auroch
+• [[Falcon-House]] (headed by [[Grandfather-Eiwa|Eiwa]]), which includes hares and glyptodons.  
+• [[Moose-House]] (headed by [[Nakta-the-Healer|Nakta]]), which includes bears and ravens.  
+• [[Musk-Ox-House]] (headed by [[Merthig-the-Firekeeper|Merthig]]), which includes saber-toothed tigers and bighorn sheep.  
+• [[Otter-House]] (headed by [[Argakoa-the-Songsinger|Argakoa]]), which includes wolves and auroch

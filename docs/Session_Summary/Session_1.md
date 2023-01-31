@@ -46,4 +46,4 @@ Just as we were about to leave, we heard some voices on the edge of the forest, 
 
 They shot [[Willow]] with an arrow, but other than that, [[Kaska]] and [[Xiat|me]] subdued the first warrior pretty fast. The second one fled the scene. We all decided to interrogate the first warrior, and [[Willow]] got pretty mad about being shot with an arrow. Oh boy, you should've seen her. I am so glad she's on our end, we had to calm the tapirs and convince them that [[Willow]] wasn't mad at _them_. I think even [[Kaska]] felt a bit intimidated. 
 
-The warrior explained something about being from a tribe that [[The_Schism|split from ours]], before it died from their wounds. We headed back to camp with our newfound tapir-friends.
+The warrior explained something about being from a tribe that [[The-Schism|split from ours]], before it died from their wounds. We headed back to camp with our newfound tapir-friends.
