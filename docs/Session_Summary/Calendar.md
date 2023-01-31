@@ -22,5 +22,5 @@
 ### Calistril
 | Day | Hyperlink | Event                   |
 | --- | --------- | ----------------------- |
-| 2   |           | [[Green_Moon_Festival]] |
+| 2   |           | [[Green-Moon-Festival]] |
 
