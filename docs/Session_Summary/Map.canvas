@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"d83a2a5571e2357d","x":-758,"y":175,"width":2147,"height":1406,"type":"file","file":"questforthefrozenflame/docs/Images/Locations/Realm_of_the_Mammoth_Lords.PNG"},
+		{"id":"778501a18228befc","x":-758,"y":1628,"width":2147,"height":540,"type":"file","file":"questforthefrozenflame/docs/Session_Summary/Map-Route.md"},
+		{"id":"f7fb009db9b7ede1","x":-123,"y":850,"width":50,"height":56,"type":"text","text":"[[Map-Route#1 : 29 Abadius 4072|1]]"}
+	],
+	"edges":[
+		{"id":"200308dd16d564d6","fromNode":"f7fb009db9b7ede1","fromSide":"right","toNode":"d83a2a5571e2357d","toSide":"bottom"},
+		{"id":"ee7f0792f6911c61","fromNode":"f7fb009db9b7ede1","fromSide":"right","toNode":"d83a2a5571e2357d","toSide":"bottom"},
+		{"id":"ee05fbe4c490cded","fromNode":"f7fb009db9b7ede1","fromSide":"left","toNode":"d83a2a5571e2357d","toSide":"bottom"},
+		{"id":"ba7651f072227993","fromNode":"f7fb009db9b7ede1","fromSide":"bottom","toNode":"d83a2a5571e2357d","toSide":"bottom"},
+		{"id":"9ed45d93ae9915d7","fromNode":"f7fb009db9b7ede1","fromSide":"right","toNode":"d83a2a5571e2357d","toSide":"bottom"}
+	]
+}
