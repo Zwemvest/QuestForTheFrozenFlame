@@ -1,6 +1,6 @@
 ---
 Tag: BrokenTusk
-Status: Dead
+status: dead
 ---
 # Weohotan 💀
 

@@ -8,7 +8,7 @@ Status: Alive
 | -------------------- | ------------------------------------- |
 | Pronouns             | He/him                                |
 | Ancestry             |                                       |
-| Class/Occupation     |  [[Mammoth_Lord]]                         |
+| Class/Occupation     |  [[Mammoth-Lord]]                         |
 | Age                  |                                       |
 | Alignment            |                                       |
 | Deity                |                                       |

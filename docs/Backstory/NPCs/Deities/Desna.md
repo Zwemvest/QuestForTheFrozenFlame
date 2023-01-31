@@ -6,4 +6,4 @@ Tag: Deity
 
 Desna is the patron deity of [[Xiat]], but if Desna actually answers to Xiat or if it's all just a bit wishful thinking remains to be seen. 
 
-*Xiat's Notes: this is Desna! She guides the stars! Every night I talk to the stars and hope she replies. She never does, but I know I'm her favored and destined to become a new Lizard King, so surely she someday will!* 
+*Xiat's note: this is Desna! She guides the stars! Every night I talk to the stars and hope she replies. She never does, but I know I'm her favored and destined to become a new Lizard King, so surely she someday will!* 

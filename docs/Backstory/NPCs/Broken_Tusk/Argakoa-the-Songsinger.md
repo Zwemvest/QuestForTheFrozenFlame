@@ -9,7 +9,7 @@ Status: Alive
 | -------------------- | ---------------------- |
 | Pronouns             | She/her                |
 | Ancestry             |                        |
-| Class/Occupation     | [[Mammoth_Lord]], Songsinger, Leader of [[Otter-House]]       |
+| Class/Occupation     | [[Mammoth-Lord]], Songsinger, Leader of [[Otter-House]]       |
 | Age                  |                        |
 | Alignment            |                        |
 | Deity                |                        |

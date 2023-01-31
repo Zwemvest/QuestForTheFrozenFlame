@@ -8,7 +8,7 @@ Status: Alive
 | -------------------- | -------------------------------------------------------------------- |
 | Pronouns             | He/him                                                               |
 | Ancestry             | Elvish                                                               |
-| Class/Occupation     |  [[Mammoth_Lord]], Wise old grandfather, Leader of [[Falcon-House]]                               |
+| Class/Occupation     |  [[Mammoth-Lord]], Wise old grandfather, Leader of [[Falcon-House]]                               |
 | Age                  | Decades                                                              |
 | Alignment            |                                                                      |
 | Deity                |                                                                      |
@@ -16,3 +16,4 @@ Status: Alive
 | Good at              |                                                                      |
 | In Summary           |                                                                      |
 
+*Xiat's note: Everything flaps when he talks. Guess even elves start to suffer from wrinkles when they grow ancient.*
