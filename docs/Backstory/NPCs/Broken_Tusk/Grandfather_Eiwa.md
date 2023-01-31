@@ -8,7 +8,7 @@ Status: Alive
 | -------------------- | -------------------------------------------------------------------- |
 | Pronouns             | He/him                                                               |
 | Ancestry             | Elvish                                                               |
-| Class/Occupation     |  [[Mammoth_Lord]], Wise old grandfather, Leader of [[Falcon_House]]                               |
+| Class/Occupation     |  [[Mammoth_Lord]], Wise old grandfather, Leader of [[Falcon-House]]                               |
 | Age                  | Decades                                                              |
 | Alignment            |                                                                      |
 | Deity                |                                                                      |

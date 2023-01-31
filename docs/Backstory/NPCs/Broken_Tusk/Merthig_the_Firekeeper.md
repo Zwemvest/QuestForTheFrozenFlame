@@ -8,7 +8,7 @@ Status: Alive
 | -------------------- | ---------------- |
 | Pronouns             |                  |
 | Ancestry             |                  |
-| Class/Occupation     |  [[Mammoth_Lord]], Megafauna Hunter, Leader of [[Musk_Ox_House]]    
+| Class/Occupation     |  [[Mammoth_Lord]], Megafauna Hunter, Leader of [[Musk-Ox-House]]    
 | Age                  |                  |
 | Alignment            |                  |
 | Deity                |                  |
