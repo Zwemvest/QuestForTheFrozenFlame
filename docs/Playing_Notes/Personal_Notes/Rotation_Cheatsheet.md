@@ -13,7 +13,9 @@ graph
   3c --> 3c;
   3a --> 3c;
   3c --> 3b;
-  
+
+linkStyle default stroke-width:2px,fill:none,stroke:gray;
+
 ```
 
 Explained: 
