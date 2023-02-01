@@ -3,7 +3,6 @@
 
 ```mermaid
 graph
-subgraph <b>Rotation</b>
   1["Turn 1:</br>Move✰</br>Spellstrike✰✰"];
   2["Turn 2:</br>Cast a Focus spell/Refresh spellstrike✰</br>Arcane Cascade✰</br>Move/Raise a shield/Attack✰"];
   3a["Turn 3a:</br>Move/Raise a Shield✰</br>Spellstrike✰✰"]
@@ -16,14 +15,13 @@ subgraph <b>Rotation</b>
   3c --> 3c;
   3a --> 3c;
   3c --> 3b;
-  end
 
 linkStyle default stroke-width:2px,fill:none,stroke:gray;
 ```
 
-Explained: 
-Turn 1: Move+Spellstrike.
-Turn 2: Refresh Spellstrike, enter Arcane Cascade, move/attack
-Alternate between 3A and 3C.
-You can fit in 3B in between when you do not need to move/raise a shield.
-Remember: do you not need to raise a shield when you cast your focus spell.
+Explained:   
+Turn 1: Move+Spellstrike.  
+Turn 2: Refresh Spellstrike, enter Arcane Cascade, move/attack  
+Alternate between 3A and 3C.  
+You can fit in 3B in between when you do not need to move/raise a shield.  
+Remember: do you not need to raise a shield when you cast your focus spell.  

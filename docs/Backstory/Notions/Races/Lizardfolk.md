@@ -1,5 +1,5 @@
 ---
-Tag: Race
+Tag: Ancestry
 ---
 # Lizardfolk
 *Xiat's note: Other races sometimes use the term "Lizardfolk", but amongst ourselves we call ourselves  we call ourselves "Iruxi". For the clarity of whomever may read this, I'll refer to our ancestry as "Lizardfolk". Lizardfolk is both singular and plural.*

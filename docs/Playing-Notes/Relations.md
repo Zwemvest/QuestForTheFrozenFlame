@@ -17,14 +17,13 @@ graph
   2-->34;
   41-->|Trains|2;
   41 -->|Trains|43;
-  
 linkStyle default stroke-width:2px,fill:none,stroke:gray;
 ```
-[[Broken-Tusk]]
-[[Wipa]]
-[[Pakano]]
-[[Party]]
-[[Xiat]]
-[[Cali]]
-[[Kaska]]
-[[Willow]]
+[[Broken-Tusk]]  
+[[Wipa]]  
+[[Pakano]]  
+[[Party]]  
+[[Xiat]]  
+[[Cali]]  
+[[Kaska]]  
+[[Willow]]  

@@ -1,5 +1,5 @@
 ---
-Tag: Race
+Tag: Ancestry
 ---
 # Human
 As unpredictable and varied as any of [[Golarion]]’s peoples, [human](https://2e.aonprd.com/Ancestries.aspx?ID=6)s have exceptional drive and the capacity to endure and expand. Though many civilizations thrived before humanity rose to prominence, humans have built some of the greatest and the most terrible societies throughout the course of history, and today they are the most populous people in the realms around [[Avistan]].  
