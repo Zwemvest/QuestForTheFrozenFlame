@@ -1,8 +1,9 @@
 [[Xiat]] Basic Rotation:
 
-<style> #L-1-2 .arrowheadPath { fill:red !important; } </style>
+
 ```mermaid
 graph
+subgraph <b>Rotation</b>
   1["Turn 1:</br>Move✰</br>Spellstrike✰✰"];
   2["Turn 2:</br>Cast a Focus spell/Refresh spellstrike✰</br>Arcane Cascade✰</br>Move/Raise a shield/Attack✰"];
   3a["Turn 3a:</br>Move/Raise a Shield✰</br>Spellstrike✰✰"]
@@ -15,6 +16,7 @@ graph
   3c --> 3c;
   3a --> 3c;
   3c --> 3b;
+  end
 
 linkStyle default stroke-width:2px,fill:none,stroke:gray;
 ```
