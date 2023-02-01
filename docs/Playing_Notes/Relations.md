@@ -1,6 +1,6 @@
 # Relations
 ```mermaid
-graph LR
+graph
   1[Broken-Tusk];
   2[Party];
   31[Xiat];

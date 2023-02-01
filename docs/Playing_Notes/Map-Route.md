@@ -2,7 +2,7 @@
 ## Legend: 
 For detailed geographical map, see [[Realm-of-the-Mammoth-Lords]]
 Settlements (white dot, black text)
-1: [[Hillcross]]
+1. [[Hillcross]]
 Stopped locations (blue dot, white text)
 Travels (light-blue line)
 
