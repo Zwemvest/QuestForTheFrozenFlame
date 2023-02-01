@@ -8,7 +8,7 @@ status: alive
 | Full Name            | Xiat'hrux-quxl                                                          |     |
 | -------------------- | ----------------------------------------------------------------------- | --- |
 | Pronouns             | Preferably none, call me Xiat. Switching around pronouns is acceptable. |     |
-| Ancestry             | Lizardfolk                                                              |     |
+| Ancestry             |[[Lizardfolk]]                                                              |     |
 | Class                | Magus                                                                   |     |
 | Age                  | 22                                                                      |     |
 | Alignment            | Chaotic Good                                                            |     |
@@ -18,4 +18,4 @@ status: alive
 | Good at              | Stargazing, missing hits, calming tapis                                 |     |
 | In Summary           |                                                                         |     |
 
-*Xiat's Note: It's me!*
+*Xiat's note: It's me!*

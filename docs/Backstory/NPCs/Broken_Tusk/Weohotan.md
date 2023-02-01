@@ -2,7 +2,7 @@
 Tag: BrokenTusk
 status: dead
 ---
-# Weohotan 💀
+# Weohotan
 
 | Full Name            | Weohotan        |
 | -------------------- | --------------- |

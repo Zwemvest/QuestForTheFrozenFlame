@@ -7,9 +7,11 @@ Tag: monster
 
 Dragons are scaled, reptilian creatures with large wings capable of flight. A dragon has a long tail that can be used as a weapon, and typically has multiple horns on its head and a ridge or horns along its spine. The differing types of dragons are named according to their color; for instance, green dragons are green-scaled. _(See also "[Draconic septs](https://pathfinderwiki.com/wiki/Dragon#Draconic_septs)".)_ While size depends on the dragon's type, very young dragons are about the size of an adult humanoid, whereas adult dragons rival the largest [[giant]]s in size, and the oldest dragons can tower over buildings.
 
-## White Dragon
-White dragons tend to be the most feral and animalistic of the chromatic dragons, relying on sheer force rather than elaborate plans or strategies. They live in cold mountain regions and arctic lowlands, making homes within freezing ice caves or other remote areas. Masters of the cold, white dragons employ freezing breath and a number of cold-based spells in order to freeze prey and foe alike. They prefer their food frozen solid.
+## Varieties:
+[[Green-Dragon]]
+> Green dragon breathe acid-breath, live in temperate forests, and have a connection with both nature and the forest. 
 
-[[Lydek-the-White]] is a white dragon that lives in the [[Tusk-Mountains]]
+[[White-Dragon]]
+>White dragons live in cold mountain regions and arctic lowlands, making homes within freezing ice caves or other remote areas. 
 
 *Xiat's note: I wonder if I'm related to them.*

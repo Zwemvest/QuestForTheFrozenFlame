@@ -1,7 +1,7 @@
 # Relations
 ```mermaid
 graph LR
-  1[Broken Tusk];
+  1[Broken-Tusk];
   2[Party];
   31[Xiat];
   32[Cali];
@@ -19,3 +19,11 @@ graph LR
   41 -->|Trains|43;
   
 ```
+[[Broken-Tusk]]
+[[Wipa]]
+[[Pakano]]
+[[Party]]
+[[Xiat]]
+[[Cali]]
+[[Kaska]]
+[[Willow]]

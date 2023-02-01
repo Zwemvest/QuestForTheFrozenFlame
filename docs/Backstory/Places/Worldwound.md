@@ -1,5 +1,5 @@
 ---
-Tag: Place
+Tag: Place,Region
 ---
 # Worldwound
 ![[Worldwound_map.webp]]

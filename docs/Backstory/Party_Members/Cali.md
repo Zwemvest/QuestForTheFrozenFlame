@@ -7,7 +7,7 @@ status: alive
 | -------------------- | ---------------------- |
 | Played by            | Aspen                  |
 | Pronouns             | He/him |
-| Ancestry             | Human                  |
+| Ancestry             | [[human]]                  |
 | Class     | Thaumathurge           |
 | Age                  |                        |
 | Alignment            |                        |

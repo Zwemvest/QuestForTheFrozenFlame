@@ -1,5 +1,5 @@
 ---
-Tag: Place
+Tag: Place,Region
 ---
 # Avistan
 ![[Avistan_continent_golarion.webp]]

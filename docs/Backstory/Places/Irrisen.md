@@ -1,5 +1,5 @@
 ---
-Tag: Place
+Tag: Place,Region
 ---
 # Irrisen
 ![[Irrisen.jpg]]

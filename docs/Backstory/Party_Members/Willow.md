@@ -8,7 +8,7 @@ status: alive
 | --------- | ---------------------------------------- |
 | Played by | Silvana                                  |
 | Pronouns  | She/her                                  |
-| Ancestry  | Halfling                                 |
+| Ancestry  | [[halfling]]                                 |
 | Class     |                                         |
 | Age       | 25 |
 | Alignment |                                         |

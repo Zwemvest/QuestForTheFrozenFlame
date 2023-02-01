@@ -1,8 +1,8 @@
 ---
-Tag: Place
+Tag: Place,Settlement
 ---
 # Hillcross
-Many [[Following]]s go here to trade or negotiate treaties.
+Many [[following]]s go here to trade or negotiate treaties.
 
 Not so much a true city as a stable, permanent location for a vast tent city, Hillcross serves as a meeting ground for the various nomadic tribes of the [[Realm-of-the-Mammoth-Lords]].
 

@@ -1,5 +1,5 @@
 ---
-Tag: Place
+Tag: Place,PlaceOfInterest
 ---
 # Thremyr's Steps
-[Thremyr's Steps](https://pathfinderwiki.com/wiki/Thremyr%27s_Steps) in [[Tusk-Mountains]] is a rocky passage between the mountains to the [[Crown-of-the-World]]. [[Giant#Frost Giant|Frost giants]] consider it as sacred ground.
+[Thremyr's Steps](https://pathfinderwiki.com/wiki/Thremyr%27s_Steps) in [[Tusk-Mountains]] is a rocky passage between the mountains to the [[Crown-of-the-World]]. [[Frost-giant]]s consider it as sacred ground.
