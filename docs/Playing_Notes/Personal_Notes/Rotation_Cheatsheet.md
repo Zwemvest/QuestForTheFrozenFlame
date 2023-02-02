@@ -1,6 +1,6 @@
 [[Xiat]] Basic Rotation:
 
-<style> #L-1-2 .arrowheadPath { fill:red !important; } </style>
+<style> #flowchart-link { fill:red !important; } </style>
 ```mermaid
 graph
   1["Turn 1:</br>Move✰</br>Spellstrike✰✰"];
