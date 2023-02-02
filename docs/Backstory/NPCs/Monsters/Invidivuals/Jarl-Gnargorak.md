@@ -1,5 +1,5 @@
 ---
-Tag: individualmonster
+Tag: MonsterIndividual
 Status: alive
 ---
 # Jarl Gnargorak

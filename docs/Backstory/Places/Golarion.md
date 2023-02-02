@@ -1,5 +1,5 @@
 ---
-Tag: Place
+Tag: Place,Region
 ---
 # Golarion
 ![[Golarion_world_map.jpg]]

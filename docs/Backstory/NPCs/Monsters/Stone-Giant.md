@@ -1,5 +1,5 @@
 ---
-Tag: monster
+Tag: MonsterGroup
 ---
 # Stone Giant
 See also: [[Giant]]

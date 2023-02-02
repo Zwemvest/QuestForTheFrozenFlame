@@ -1,5 +1,5 @@
 ---
-Tag: monster
+Tag: MonsterGroup
 ---
 # Storm Giant
 See also: [[Giant]]

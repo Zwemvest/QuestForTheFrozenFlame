@@ -1,5 +1,5 @@
 ---
-Tag: monster
+Tag: MonsterGroup
 ---
 # Giant
 ![[giant.png]]

@@ -1,5 +1,5 @@
 ---
-Tag: monster
+Tag: MonsterGroup
 ---
 # Frost Giant
 See also: [[Giant]]

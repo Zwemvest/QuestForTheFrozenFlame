@@ -1,5 +1,5 @@
 ---
-Tag: monster
+Tag: MonsterGroup
 ---
 # Green Dragon
 ![[green-dragon.png]]
