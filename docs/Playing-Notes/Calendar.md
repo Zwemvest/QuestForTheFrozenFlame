@@ -2,7 +2,7 @@
 ## Before game start
 | Date |  Event                                                                                           |
 |  ---  |  ---  | 
-|  | An unknown tribe [splits](The-Schism.md) from the [[Broken-Tusk]] |
+|  | An unknown tribe [splits](The-Schism) from the [[Broken-Tusk]] |
 |4696-4697 |  [[Willow]] is born into the [[Broken-Tusk]] |
 | 4699-4700 | [[Kaska]] is born into the [[Broken-Tusk]]. [[Xiat]] is born into the Iruxi.            |
 | 4715 |[[Xiat]] is banished from the Iruxi and forced to wander the Realms of the [[Mammoth-Lord]]s    |
