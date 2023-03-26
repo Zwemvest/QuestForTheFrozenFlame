@@ -17,4 +17,4 @@ status: alive
 | Good at              |                        |
 | In Summary           |                        |
 
-*Xiat's Note: One of our group members. Absent for the last 2 days. I respect Cali because Cali's also trying to get powerful enough to prove himself, and a person with a similair fighting style.* 
+*Xiat's Note: One of our group members. Absent for the last 2 days. I respect Cali because Cali is a person in the same boat as me: a similair fighting style, and trying to get powerful enough to prove himself.* 

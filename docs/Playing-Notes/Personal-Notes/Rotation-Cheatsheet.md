@@ -1,6 +1,5 @@
 [[Xiat]] Basic Rotation:
 
-
 ```mermaid
 graph
   1["Turn 1:</br>Move✰</br>Spellstrike✰✰"];
