@@ -1,7 +1,7 @@
 ---
 Tag: BrokenTusk
 Status: Alive
-alias: Nakta the Healer
+aliases: Nakta the Healer, Nakta
 ---
 # Nakta the Healer
 

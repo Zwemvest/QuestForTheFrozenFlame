@@ -11,7 +11,7 @@ I yell for [[Willow]] to help calm the [[mammoth]] while I help [[Kaska]] with t
 
 Luckily [[Willow]] got some healer's tools from one of the hunters and helped [[Kaska]]. We retried calming the porcupine using some of the rations from [[Kaska]], with Tooththief helping me. 
 
-As the porcupine calmed down, [[Pakano]] angrily dropped by and mentioned he'd been waiting for half an hour for us. I called him a shoe sole and told him it's a compliment in Iruxi culture. [[Willow]] calmed him down and we headed on our way.
+As the porcupine calmed down, [[Pakano]] angrily dropped by and mentioned he'd been waiting for half an hour for us. I called him a shoe sole and told him it's a compliment in [[Lizardfolk|Iruxi]] culture. [[Willow]] calmed him down and we headed on our way.
 
 When we arrived at the river, everyone but me spotted a spear. [[Pakano]] charged for it, grabbed it, and challenged it for the right to own the spear. We started wrestling with [[Pakano]]. [[Kaska]] and [[Teeththief]] have some good moves, but I kept porking up. A tradition in [[Lizardfolk|Iruxi]] culture is to throw the loser into the water, so they threw me in. When I got out of the water, [[Teeththief]] threw me back in. When I got out of the water a second time, I threw _her_ in.
 
@@ -57,13 +57,13 @@ That evening, [[Grandfather-Eiwa]] spoke to us and explained our ancestry and ou
 In the small, squat tent where [[Grandfather-Eiwa]] spends his evenings, the old man stoops beside his fire ring. His expressive face, wrinkled from many years of good humor, is now a portrait of sadness. “Come, sit,” he says. He pokes the embers with a stick. “I had hoped you would never need to hear the story I am about to tell you. Or at least I would not be the one to have to tell it.” 
 
 He offers a rueful smile.
-“How to make a long story short? I will try to put it simply. In the [[ethgir]]—the before times, when my ancestors were young—we [[Broken-Tusk]]s were called the [[Original-Burning-Mammoth|Burning Mammoths]]s. Our migratory route was large then, as was our herd. We carried with us a powerful light: the [[Primordial-Flame]].”
+“How to make a long story short? I will try to put it simply. In the [[ethgir]]—the before times, when my ancestors were young—we [[Broken-Tusk|Broken Tusk]]s were called the [[Original-Burning-Mammoth|Burning Mammoths]]s. Our migratory route was large then, as was our herd. We carried with us a powerful light: the [[Primordial-Flame]].”
 
 He spreads the fire’s coals into a wide, flat layer. In the center of the coals, a perfectly round pebble glows, red hot. “Then, the [[Fifth-Mendevian-Crusade|Great Quake]] shattered the eastern lands.” He tips a large, jagged rock from the fire ring into the coals. “Far as we were, our people still felt the thundering hooves of the demon horde.” 
 
 Earwigs and pill bugs scatter out of the hole left by the upturned stone.
-“Our [[Mammoth-Lord]]s argued over what to do with the light,” Eiwa continues. “In the end, some of us took the [[Primordial-Flame]]. We hid it where it would be safe.” With his stick, he separates a few coals from the rest, then moves the red-hot pebble next to the small group.
+“Our [[Mammoth-Lord]]s argued over what to do with the light,” [[Grandfather-Eiwa|Eiwa]] continues. “In the end, some of us took the [[Primordial-Flame]]. We hid it where it would be safe.” With his stick, he separates a few coals from the rest, then moves the red-hot pebble next to the small group.
 
-“The [[Burning-Mammoth|others]] [[The-Schism|called us traitors]] and [[Fifth-Mendevian-Crusade| went east to face the demons]], taking the banner of the [[Burning-Mammoth]]s with them. Weak but determined to carry on, we took a new name: the [[Broken-Tusk]].
+“The [[Burning-Mammoth|others]] [[The-Schism|called us traitors]] and [[Fifth-Mendevian-Crusade| went east to face the demons]], taking the banner of the [[Burning-Mammoth]]s with them. Weak but determined to carry on, we took a new name: the [[Broken-Tusk|Broken Tusk]].
 
 “That was long ago, and much has happened since,” he says, dropping his stick into the fire. “But now, the [[Burning-Mammoth]]s have returned? And in time for the Night of the [[Green-Moon-Festival]]. I cannot say what this means—my ancestors’ spirits are silent. But my bones tell me this will not be a happy reunion.”

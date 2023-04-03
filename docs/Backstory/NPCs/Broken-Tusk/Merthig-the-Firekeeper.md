@@ -1,7 +1,7 @@
 ---
 Tag: BrokenTusk
 Status: Alive
-alias: Merthig the Firekeeper
+alias: Merthig the Firekeeper, Merthig
 ---
 # Merthig the Firekeeper
 

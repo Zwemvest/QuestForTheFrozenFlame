@@ -1,5 +1,6 @@
 ---
 Tag: Place,Region
+alias: Sarkoris Scar
 ---
 # Worldwound
 ![[Worldwound_map.webp]]

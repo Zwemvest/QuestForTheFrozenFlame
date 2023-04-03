@@ -10,7 +10,7 @@ Orcs often struggle to gain acceptance among other communities, who frequently s
 Orc culture teaches that they are shaped by the challenges they survive, and the most worthy survive the most hardships. orcs who attain both a long life and great triumphs command immense respect.
 
 ## Notes
-The [[Kellid|people]] in the [[Realm-of-the-Mammoth-Lords]] have a difficult relationship with orcs, since most will come from the [[Hold-of-Belkzen]] to raid on their megafauna. However, the [[Broken-Tusk]] tribe isn't very picky about who joins, as long as you can prove yourself. 
+The [[Kellid|people]] in the [[Realm-of-the-Mammoth-Lords]] have a difficult relationship with orcs, since most will come from the [[Hold-of-Belkzen]] to raid on their megafauna. However, the [[Broken-Tusk|Broken Tusk]] tribe isn't very picky about who joins, as long as you can prove yourself. 
 
 [[Kaska]] is an orc.
 
@@ -22,7 +22,7 @@ Orcs consider powerful builds and heavily scarred skin attractive, regardless of
 ## Society
 Most orc communities define themselves through two things: pain and glory. Each earns respect in near equal measure, so long as the pain is borne with stoicism. An orc with many scars who walks uncomplaining with a broken leg draws as much admiration as one who wins a great victory on the battlefield.  
   
-Power in an orc hold comes from strength or family lineage. The structure tends to be feudal, with weaker orcs working at the behest of the strong. The Hold of Belkzen is the largest such society, and power changes hands there quickly. One mighty orc dying in battle can shake up an entire power structure, leading to squabbling and duels to decide control. Many orcs who tire of being subservient split off to form their own warbands, traveling to new territory.  
+Power in an orc hold comes from strength or family lineage. The structure tends to be feudal, with weaker orcs working at the behest of the strong. The [[Hold-of-Belkzen|Hold of Belkzen]] is the largest such society, and power changes hands there quickly. One mighty orc dying in battle can shake up an entire power structure, leading to squabbling and duels to decide control. Many orcs who tire of being subservient split off to form their own warbands, traveling to new territory.  
   
 Young orcs are typically raised by the entire community. Indeed, it would be almost impossible for orcs to raise their young any other way, since twins, triplets, and even quadruplets are quite common in orc families, as are deaths among orcs in their child-rearing years. Many orc holds conduct ceremonies when a young orc comes of age, typically around their tenth or eleventh birthday, during which the new adults are told what their role in the hold will be. For communities that practice ritual scarification or tattooing, this is often when the young orcs receive their first hold-scar or tattoo as well.  
   

@@ -1,7 +1,7 @@
 ---
-Tag: BrokenTusk
-Status: Alive
-Alias: Eiwa, Grandfather Eiwa
+tag: BrokenTusk
+status: alive
+aliases: Eiwa, Grandfather Eiwa
 ---
 # Grandfather Eiwa
 
@@ -17,4 +17,4 @@ Alias: Eiwa, Grandfather Eiwa
 | Good at              |                                                                      |
 | In Summary           |                                                                      |
 
-*Xiat's note: Everything flaps when he talks. Guess even elves start to suffer from wrinkles when they grow ancient.*
+*[[Xiat]]'s note: Everything flaps when he talks. Guess even elves start to suffer from wrinkles when they grow ancient.*

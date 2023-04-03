@@ -12,4 +12,4 @@ The ensuing five-year campaign was the most successful of them all. The heroes s
 ## Relation to the Realm of the Mammoth Lords
 Being adjacent to the [[Worldwound]], the [[Realm-of-the-Mammoth-Lords]] were immediately threatened by the [[demon]]s. As a result, the [[Original-Burning-Mammoth]] sent warriors to fight the [[demon]]s there during the first Crusade. 
 
-Parts of the [[Original-Burning-Mammoth]] rebelled, and took the [[Primordial-Flame]] to hide it from the [[demon]]s. These rebels now call themselves the [[Broken-Tusk]]. The new [[Burning-Mammoth]], however, considers this a vile betrayal of the tribe.
+Parts of the [[Original-Burning-Mammoth]] rebelled, and took the [[Primordial-Flame]] to hide it from the [[demon]]s. These rebels now call themselves the [[Broken-Tusk|Broken Tusk]]. The new [[Burning-Mammoth]], however, considers this a vile betrayal of the tribe.

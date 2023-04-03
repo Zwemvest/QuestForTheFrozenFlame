@@ -5,7 +5,7 @@ Tag: MonsterGroup
 
 ![[Loblobi.png]]
 
-In the First World, rivers don't always flow as expected; sometimes they run backward, upward, or just disappear into mist and reappear somewhere else entirely. Fey native to such rivers are often just as capricious. This quality is particularly true of loblobis, cunning carnivores who resemble small, chubby humans with the heads and wings of crested herons.
+In the First World, rivers don't always flow as expected; sometimes they run backward, upward, or just disappear into mist and reappear somewhere else entirely. [[Fey]] native to such rivers are often just as capricious. This quality is particularly true of loblobis, cunning carnivores who resemble small, chubby humans with the heads and wings of crested herons.
 
 These malicious tricksters love playing any pranks that result in other creatures being embarrassed, hurt, or even drowned. Their most common “antic” is to cast water walk on a hopeful river-crosser, only to dismiss the spell when their victim has traversed halfway across. Conversely, most loblobis are terrible sports when they're the butt of a joke. It's common wisdom that few creatures can hold a grudge like a loblobi.
 

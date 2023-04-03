@@ -21,4 +21,4 @@ The [[Kellid]]s of the [[Realm-of-the-Mammoth-Lords]] have a somewhat contradict
 [[Stone-Giant]]
 >Large humanoids with dark gray, leathery skin, preferring to live in solitude in hills, caves, and mountains. Because of their skin color they tend to blend in among their stony surroundings.
 
-*Xiat's note: you'd think the name would be enough to know what they are, yet here we are*
+*[[Xiat]]'s Note: you'd think the name would be enough to know what they are, yet here we are*

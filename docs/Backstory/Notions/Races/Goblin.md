@@ -20,4 +20,4 @@ Goblins tend to flock to strong leaders, forming small tribes. These tribes rare
   
 Goblins bond closely with their allies, fiercely protecting those companions who have protected them or offered a sympathetic ear. Goblins tend to assume for their own protection that members of taller ancestries, which goblins often refer to colloquially as “longshanks,” won’t treat them kindly. Learning to trust longshanks is difficult for a goblin, and it’s been only in recent years that such a partnership has even been an option. However, their attitude as a people is changing rapidly, and their short lifespans and poor memories help them adapt quickly.
 
-*Xiat's note: Goblins are dispicable, disgusting creatures. Luckily for me, they'll take those words mostly as a compliment. One thing is for certain: life is never boring if you have a goblin in your party.
+*[[Xiat]]'s note: Goblins are dispicable, disgusting creatures. Luckily for me, they'll take those words mostly as a compliment. One thing is for certain: life is never boring if you have a goblin in your party.

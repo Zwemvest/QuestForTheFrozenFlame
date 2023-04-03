@@ -2,9 +2,9 @@
 Tag: Notion
 ---
 # Seasons
-[[Mammoth-Lord]] followings like the [[Broken-Tusk]] are keenly aware of their environment and natural  surroundings and possess millennia of knowledge passed down from one generation to the next. [[Broken-Tusk]]s have not only memorized the migrational patterns of the animals they hunt, but many can also accurately forecast weather, identify nearly every animal and plant in their native region, and navigate using only the stars in the sky.  
+[[Mammoth-Lord]] followings like the [[Broken-Tusk|Broken Tusk]] are keenly aware of their environment and natural  surroundings and possess millennia of knowledge passed down from one generation to the next. [[Broken-Tusk|Broken Tusk]]s have not only memorized the migrational patterns of the animals they hunt, but many can also accurately forecast weather, identify nearly every animal and plant in their native region, and navigate using only the stars in the sky.  
 
-Core to the [[Broken-Tusk]] understanding of the world is a nearly reverential appreciation for the  
+Core to the [[Broken-Tusk|Broken Tusk]] understanding of the world is a nearly reverential appreciation for the  
 natural cycle of the moon and four seasons. Many [[Mammoth-Lord]] followings have their own names for each cycle of the moon.
 
 <div style="color:orangered">

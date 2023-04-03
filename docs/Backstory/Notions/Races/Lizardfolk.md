@@ -3,7 +3,7 @@ Tag: Ancestry
 Alias: Iruxi
 ---
 # Lizardfolk
-*Xiat's note: Other races sometimes use the term "Lizardfolk", but amongst ourselves we call ourselves  we call ourselves "Iruxi". For the clarity of whomever may read this, I'll refer to our ancestry as "Lizardfolk". Lizardfolk is both singular and plural.*
+*[[Xiat]]'s note: Other races sometimes use the term "Lizardfolk", but amongst ourselves we call ourselves  we call ourselves "Iruxi". For the clarity of whomever may read this, I'll refer to our ancestry as "Lizardfolk". Lizardfolk is both singular and plural.*
 
 [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=15) move through the societies of other humanoids with the steely reserve of born predators. They have a well-deserved reputation as outstanding rangers and unsentimental fighters. Though Lizardfolk have adapted to many different environments, many of them still prefer to remain near bodies of water, using their ability to hold their breath to their advantage. As a result, Lizardfolk usually prefer equipment that is not easily damaged by moisture, eschewing leather and metal for gear made of stone, ivory, glass, and bone.
 

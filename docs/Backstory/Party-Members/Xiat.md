@@ -13,9 +13,9 @@ status: alive
 | Age                  | 22                                                                      |     |
 | Alignment            | Chaotic Good                                                            |     |
 | Deity                | [[Desna]]                                                                   |     |
-| Languages | [[Hallit]], Iruxi, Draconic |
+| Languages | [[Hallit]], [[Lizardfolk\|Iruxi]], Draconic |
 | Physical Description |                                                                         |     |
 | Good at              | Stargazing, missing hits, calming tapis                                 |     |
 | In Summary           |                                                                         |     |
 
-*Xiat's note: It's me!*
+*[[Xiat]]'s Note: It's me!*

@@ -15,4 +15,4 @@ Dragons are scaled, reptilian creatures with large wings capable of flight. A dr
 [[White-Dragon]]
 >White dragons live in cold mountain regions and arctic lowlands, making homes within freezing ice caves or other remote areas. 
 
-*Xiat's note: I wonder if I'm related to them.*
+*[[Xiat]]'s Note: I wonder if I'm related to them.*

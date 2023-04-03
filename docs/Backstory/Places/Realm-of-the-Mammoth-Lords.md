@@ -1,6 +1,6 @@
 ---
 Tag: Place,Region
-alias: Realm of the Mammoth Lords
+alias: Realm of the Mammoth Lords, the Realm
 ---
 # Realm of the Mammoth Lords
 ![[realm of the mammoth lords.webp]]
@@ -52,4 +52,4 @@ The [[Kellid]] tribespeople of the Realm move with ease among the megafauna, tak
 [[Ruins-of-Tashagrot]]
 [[Thremyrs-Steps]]
 
-*[[Xiat]]'s Note: This is the land where we are. It's a hostile land for a[[Lizardfolk]], but I'm glad I found the [[Broken-Tusk]] tribe to help me survive this.* 
+*[[Xiat]]'s Note: This is the land where we are. It's a hostile land for a[[Lizardfolk]], but I'm glad I found the [[Broken-Tusk|Broken Tusk]] tribe to help me survive this.* 

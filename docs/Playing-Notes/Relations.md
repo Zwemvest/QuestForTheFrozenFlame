@@ -19,7 +19,7 @@ graph
   41 -->|Trains|43;
 linkStyle default stroke-width:2px,fill:none,stroke:gray;
 ```
-[[Broken-Tusk]]  
+[[Broken-Tusk|Broken Tusk]]  
 [[Wipa]]  
 [[Pakano]]  
 [[Party]]  

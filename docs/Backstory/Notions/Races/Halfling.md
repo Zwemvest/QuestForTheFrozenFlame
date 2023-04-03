@@ -9,7 +9,7 @@ Optimistic and cheerful, blessed with uncanny luck, and driven by powerful wande
 
 Many taller people dismiss halflings due to their size or, worse, treat them like children. halflings use these prejudices and misconceptions to their advantage, gaining access to opportunities and performing deeds of daring mischief or heroism. A halfling’s curiosity is tempered by wisdom and caution, leading to calculated risks and narrow escapes.
 
-While their wanderlust and curiosity sometimes drive them toward adventure, halflings also carry strong ties to house and home, often spending above their means to achieve comfort in their homelife.
+While their wanderlust and curiosity sometimes drive them toward adventure, halflings also carry strong ties to [[house]] and home, often spending above their means to achieve comfort in their homelife.
 
 ## Notes
 [[Willow]] is a halfling. 
@@ -26,4 +26,4 @@ Despite their jovial and friendly nature, halflings don’t usually tend to cong
   
 Wherever halflings go, they seamlessly blend into the society they find themselves in, adapting to the culture of the predominant ancestry around them and adding their uniquely halfling twists, creating a blend of cultural diffusion that enriches both cultures.
 
-*Xiat's note: why do we call halflings halflings? Shouldn't [[human]]s be called doublelings?*
+*[[Xiat]]'s note: why do we call halflings halflings? Shouldn't [[human]]s be called doublelings?*
