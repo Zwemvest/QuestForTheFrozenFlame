@@ -49,6 +49,7 @@ plugins:
   - roamlinks 
   - mermaid2
   - ezlinks
+  - tooltipster-links
 
 extra_javascript:
   - javascripts/mathjax.js
