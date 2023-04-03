@@ -3,7 +3,7 @@ Tag: Place,Region
 alias: Realm of the Mammoth Lords, the Realm
 ---
 # Realm of the Mammoth Lords
-![](../../Images/Locations/realm%20of%20the%20mammoth%20lords.webp)
+![](../../Images/Locations/realm-of-the-mammoth-lords.webp)
 
 Often simply called “the Realm,” this geographic region between the witch-ruled nation of [Irrisen](Irrisen) to the west and the demon-plagued [Sarkoris Scar](Worldwound) to the east lacks definable borders. The people of the Realm roam the broad span of tundra and mountains and consider the whole of the natural world their home. 
 
@@ -46,7 +46,7 @@ The [Kellid](Kellid) tribespeople of the Realm move with ease among the megafaun
 
 ### Places of Interest:
 [Broken Shore](Broken-Shore)
-[Bos Phargrumm](Bos-Phargrumm)
+[Bos-Phargrumm](Bos-Phargrumm)
 [Earthnavel](Earthnavel)
 [Mammoth Graveyard](Mammoth-Graveyard)
 [Red Rune Canyon](Red-Rune-Canyon)

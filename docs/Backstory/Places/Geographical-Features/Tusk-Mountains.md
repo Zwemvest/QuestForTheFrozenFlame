@@ -22,7 +22,7 @@ The [Burning Mammoth](Burning-Mammoth) claims to be the strongest tribe west of 
 [Mountain of Frozen Echoes](Mountain-of-Frozen-Echoes)
 > A holy shrine for the local [Kellid](Kellid) people, now taken over by the [Jhodagarn clan](Jhodagarn-clan) clan.
 
-[Bos Phargrumm](Bos-Phargrumm)
+[Bos-Phargrumm](Bos-Phargrumm)
 >The ice castle of [Jarl Gnargorak](Jarl-Gnargorak), self-proclaimed king of all [Frost Giant](../../NPCs/Monsters/Frost-Giant.md).
 
 [Mammoth Graveyard](Mammoth-Graveyard)

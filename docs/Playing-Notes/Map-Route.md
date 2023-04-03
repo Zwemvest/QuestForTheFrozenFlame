@@ -1,8 +1,8 @@
-![](../Images/map.PNG)
+![](../Images/Locations/map.PNG)
 ## Legend: 
 For detailed geographical map, see [Realm of the Mammoth Lords](../Backstory/Places/Realm-of-the-Mammoth-Lords.md)
 Settlements (white dot, black text)
-1. [../Backstory/Places/Settlements/Hillcross.md](Hillcross)
+1. [Hillcross](../Backstory/Places/Settlements/Hillcross.md)
 Stopped locations (blue dot, white text)
 Travels (light-blue line)
 
