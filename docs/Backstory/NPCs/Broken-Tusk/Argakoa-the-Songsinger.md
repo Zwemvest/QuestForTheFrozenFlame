@@ -10,7 +10,7 @@ Alias: Argakoa the Songsinger, Argakoa
 | -------------------- | ---------------------- |
 | Pronouns             | She/her                |
 | Ancestry             |                        |
-| Class/Occupation     | [[Mammoth-Lord|Mammoth Lord]], Songsinger, Leader of [[Otter-House|Otter House]]       |
+| Class/Occupation     | [[Mammoth-Lord\|Mammoth Lord]], Songsinger, Leader of [[Otter-House\|Otter House]]       |
 | Age                  |                        |
 | Alignment            |                        |
 | Deity                |                        |

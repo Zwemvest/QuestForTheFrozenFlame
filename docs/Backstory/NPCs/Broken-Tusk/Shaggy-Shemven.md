@@ -13,7 +13,7 @@ alias: Shaggy, Shaggy Shemven
 | Alignment            |                                                                    |
 | Deity                |                                                                    |
 | Physical Description | Small, hirsute individual with long, animated manes of hair        |
-| Good at              | Everything rock-related, from [[stone-stride|stone stride]] to [[Shape-Stone|Shape Stone]] |
+| Good at              | Everything rock-related, from [[stone-stride\|stone stride]] to [[Shape-Stone\|Shape Stone]] |
 | In Summary           | He rocks.                                                          |
 
 ![[shaggy.png]]

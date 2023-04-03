@@ -8,7 +8,7 @@ status: alive
 | -------------------- | ---------------------------- |
 | Pronouns             | He/him                       |
 | Ancestry             |  |
-| Class/Occupation     | Megafauna Hunter, scout, heir to [[Falcon-House|Falcon House]]. |
+| Class/Occupation     | Megafauna Hunter, scout, heir to [[Falcon-House\|Falcon House]]. |
 | Age                  |                              |
 | Alignment            |                              |
 | Deity                |                              |
