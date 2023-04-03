@@ -9,7 +9,7 @@ aliases: Nakta the Healer, Nakta
 | -------------------- | --- |
 | Pronouns             |     |
 | Ancestry             |     |
-| Class/Occupation     |  [Mammoth Lord](Mammoth-Lord), Leader of [Moose House](Moose-House)    
+| Class/Occupation     |  [Mammoth Lord](../../Notions/Mammoth-Lord.md), Leader of [Moose House](../../Organizations/Moose-House.md)    
 | Age                  |     |
 | Alignment            |     |
 | Deity                |     |

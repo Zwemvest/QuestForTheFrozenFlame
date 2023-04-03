@@ -19,11 +19,11 @@ graph
   41 -->|Trains|43;
 linkStyle default stroke-width:2px,fill:none,stroke:gray;
 ```
-[Broken Tusk](Broken-Tusk)  
-[Wipa](Wipa)  
-[Pakano](Pakano)  
-[Party](Party)  
-[Xiat](Xiat)  
-[Teeththief](Teeththief)  
-[Kaska](Kaska)  
-[Willow](Willow)  
+[Broken Tusk](../Backstory/Organizations/Broken-Tusk.md)  
+[Wipa](../Backstory/NPCs/Broken-Tusk/Wipa.md)  
+[Pakano](../Backstory/NPCs/Broken-Tusk/Pakano.md)  
+[Party](../Backstory/Organizations/Party.md)  
+[Xiat](../Backstory/Party-Members/Xiat.md)  
+[Teeththief](../Backstory/Party-Members/Teeththief.md)  
+[Kaska](../Backstory/Party-Members/Kaska.md)  
+[Willow](../Backstory/Party-Members/Willow.md)  

@@ -1,4 +1,4 @@
-[Xiat](Xiat) Basic Rotation:
+[Xiat](../../Backstory/Party-Members/Xiat.md) Basic Rotation:
 
 ```mermaid
 graph

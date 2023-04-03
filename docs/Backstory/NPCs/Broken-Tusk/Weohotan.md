@@ -14,4 +14,4 @@ status: dead
 | Deity                |                 |
 | Physical Description |                 |
 | Good at              |                 |
-| In Summary           |Best friend and the father of [Wipa](Wipa)'s children. Died a few weeks ago in an accident while hunting aurochs with [Pakano](Pakano). |
+| In Summary           |Best friend and the father of [Wipa](Wipa.md)'s children. Died a few weeks ago in an accident while hunting aurochs with [Pakano](Pakano.md). |

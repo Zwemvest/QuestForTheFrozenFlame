@@ -16,7 +16,7 @@ status: alive
 | Good at              |     |
 | In Summary           |     |
 
-Half-elf child of [Argakoa](Argakoa-the-Songsinger) and [Letsua](Letsua) 
+Half-elf child of [Argakoa](Argakoa-the-Songsinger.md) and [Letsua](Letsua.md) 
 
-The spirited hunter Panuaku will help further the characters’ training as scouts. As native [Broken Tusks](Broken-Tusk), she can also teach the characters much about the history, customs, and values of the [Broken Tusk](Broken-Tusk) [following](following).
+The spirited hunter Panuaku will help further the characters’ training as scouts. As native [Broken Tusks](../../Organizations/Broken-Tusk.md), she can also teach the characters much about the history, customs, and values of the [Broken Tusk](../../Organizations/Broken-Tusk.md) [following](../../Notions/Following.md).
  

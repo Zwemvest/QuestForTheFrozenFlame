@@ -3,7 +3,7 @@ Tag: fauna
 alias: Porcupines
 ---
 # Porcupine
-![PorcupineGiant.png](PorcupineGiant.png)
+![../../../Images/Monsters/PorcupineGiant.png](PorcupineGiant.png)
 The [porcupine](https://2e.aonprd.com/Monsters.aspx?ID=1268), sometimes called a quill pig, is a shy, gray-and-brown herbivore covered in barbed quills. Though most comfortable on the forest floor, a porcupine can climb trees adeptly to seek out leaves, bark, and insects for food. 
 
 When startled or threatened, a porcupine employs multiple strategies to discourage potential predators. It emits a pungent odor that warns other creatures away, rattling its quills and chattering its teeth loudly to provide an additional auditory warning. If cornered, it raises its quills, faces away from the danger, and charges backwards at full speed, impaling any unlucky creatures is in its path.
