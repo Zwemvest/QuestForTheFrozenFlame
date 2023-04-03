@@ -17,4 +17,4 @@ aliases: Eiwa, Grandfather Eiwa
 | Good at              |                                                                      |
 | In Summary           |                                                                      |
 
-*[[Xiat]]'s note: Everything flaps when he talks. Guess even elves start to suffer from wrinkles when they grow ancient.*
+*[Xiat](Xiat)'s note: Everything flaps when he talks. Guess even elves start to suffer from wrinkles when they grow ancient.*

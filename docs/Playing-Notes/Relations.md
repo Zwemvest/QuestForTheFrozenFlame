@@ -20,10 +20,10 @@ graph
 linkStyle default stroke-width:2px,fill:none,stroke:gray;
 ```
 [Broken Tusk](Broken-Tusk)  
-[[Wipa]]  
-[[Pakano]]  
-[[Party]]  
-[[Xiat]]  
-[[Teeththief]]  
-[[Kaska]]  
-[[Willow]]  
+[Wipa](Wipa)  
+[Pakano](Pakano)  
+[Party](Party)  
+[Xiat](Xiat)  
+[Teeththief](Teeththief)  
+[Kaska](Kaska)  
+[Willow](Willow)  

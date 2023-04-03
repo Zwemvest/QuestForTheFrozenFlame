@@ -4,7 +4,7 @@ alias: White Dragon, White Dragons
 ---
 # White Dragon
 ![white dragon.png](white-dragon.png)
-See also: [[Dragon]]
+See also: [Dragon](Dragon)
 
 [White dragon](https://pathfinderwiki.com/wiki/White_dragon)s tend to be the most feral and animalistic of the chromatic dragons, relying on sheer force rather than elaborate plans or strategies. They live in cold mountain regions and arctic lowlands, making homes within freezing ice caves or other remote areas. Masters of the cold, white dragons employ freezing breath and a number of cold-based spells in order to freeze prey and foe alike. They prefer their food frozen solid.
 

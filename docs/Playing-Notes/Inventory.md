@@ -7,15 +7,15 @@
 ## Party
 -  a lensatic compass and a gold pendant with a garnet gem worth 15 gp.
 
-## [[Willow]]
+## [Willow](Willow)
 - [Bones of a moose](Session-1#29 Abadius 4072)
 
-## [[Kaska]]
+## [Kaska](Kaska)
 - [Antlers of a moose](Session-1#29 Abadius 4072)
 -  [Kaskas spear](Kaskas-spear) ([Session 2#27 Calistril 4072](Session-2#27 Calistril 4072))
 
-## [[Xiat]]
+## [Xiat](Xiat)
 [Hunters Bane Talisman](Hunters-Bane-Talisman)  ([Session 2#27 Calistril 4072](Session-2#27 Calistril 4072))
 
-## [[Teeththief]]
-[[Mudlily]]  ([Session 2#27 Calistril 4072](Session-2#27 Calistril 4072))
+## [Teeththief](Teeththief)
+[Mudlily](Mudlily)  ([Session 2#27 Calistril 4072](Session-2#27 Calistril 4072))

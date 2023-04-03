@@ -1,4 +1,4 @@
-[[Xiat]] Basic Rotation:
+[Xiat](Xiat) Basic Rotation:
 
 ```mermaid
 graph
