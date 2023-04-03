@@ -15,7 +15,7 @@ Humans’ ambition, versatility, and exceptional potential have led to their sta
 ## Physical Description
 Humans' physical characteristics are as varied as the world's climes. humans have a wide variety of skin and hair colors, body types, and facial features. Generally speaking, their skin has a darker hue the closer to the equator they or their ancestors lived.  
   
-Humans reach physical adulthood around the age of 15, though mental maturity occurs a few years later. A typical human can live to be around 90 years old. humans often intermarry with people of other ancestries, giving rise to children who bear the traits of both parents. The most notable half-humans are half-[elves](Elf.md) and half-[Orc.mds](orc).  
+Humans reach physical adulthood around the age of 15, though mental maturity occurs a few years later. A typical human can live to be around 90 years old. humans often intermarry with people of other ancestries, giving rise to children who bear the traits of both parents. The most notable half-humans are half-[elves](Elf.md) and half-[Orcs](Orc.md).  
 
 ## Society
 Human variety also manifests in terms of their governments, attitudes, and social norms. Though the oldest of human cultures can trace their shared histories thousands of years into the past, when compared to the societies of the [elves](Elf.md) or [dwarves](Dwarf.md), human civilizations seem in a state of constant flux as empires fragment and new kingdoms subsume the old.

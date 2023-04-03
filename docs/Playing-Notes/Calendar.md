@@ -6,9 +6,9 @@
 | 4606 | The [Great Quake](Great-Quake) takes place, and the [Worldwound](Worldwound) is opened. |
 | Some time after 4606 | The [Broken Tusk](Broken-Tusk) [splits](The-Schism) from the [Burning Mammoth](Original-Burning-Mammoth) during the [Fifth Mendevian Crusade](Fifth-Mendevian-Crusade). The [Broken Tusk](Broken-Tusk) take the [Primordial Flame](Primordial-Flame) and hide it. |
 | 4696-4697 |  [Willow](Willow) is born into the [Broken Tusk](Broken-Tusk) |
-| 4699-4700 | [Kaska](Kaska) is born into the [Broken Tusk](Broken-Tusk). [Xiat](Xiat) is born into the Iruxi.            |
+| 4699-4700 | [Kaska](Kaska) is born into the [Broken Tusk](Broken-Tusk). [Xiat](Xiat) is born into [Xiats-Iruxi-Tribe](../Backstory/Organizations/Xiats-Iruxi-Tribe.md).            |
 | 4708 | [Teeththief](Teeththief) is born amongst a snow goblin tribe |
-| 4715 |[Xiat](Xiat) is sent away the Iruxi towards [the Realm](Realm-of-the-Mammoth-Lords)    |
+| 4715 |[Xiat](Xiat) is sent away the [Iruxi](../Backstory/Notions/Races/Lizardfolk.md) towards [the Realm](Realm-of-the-Mammoth-Lords)    |
 | 4713-4718 | The [Worldwound](Worldwound) is closed in the [Fifth Mendevian Crusade](Fifth-Mendevian-Crusade) |
 | 4720 |[Xiat](Xiat) is accepted into the [Broken Tusk](Broken-Tusk)                                                   |
 | 4721 | [Wipa](Wipa)  is assigned to train [Willow](Willow), [Kaska](Kaska), [Cali](Cali) , and [Xiat](Xiat)  to become scouts |

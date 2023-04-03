@@ -205,6 +205,42 @@
       "selectBackground": false
     },
     {
+      "type": "tag",
+      "name": "status",
+      "value": "Item",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "7af4-5035",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "status",
+      "value": "Magic",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "3d99-c126",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "status",
+      "value": "Artifact",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f86f-ee8c",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
       "type": "attribute",
       "name": "status",
       "value": "dead",
@@ -219,10 +255,10 @@
     {
       "type": "tag",
       "name": "status",
-      "value": "Item",
+      "value": "Session",
       "matchCaseSensitive": false,
       "match": "exact",
-      "uid": "7af4-5035",
+      "uid": "8f52-8c48",
       "selectText": true,
       "selectAppend": false,
       "selectPrepend": true,
