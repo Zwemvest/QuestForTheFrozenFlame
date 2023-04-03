@@ -3,7 +3,8 @@ Tag: Place,Region
 alias: Realm of the Mammoth Lords, the Realm
 ---
 # Realm of the Mammoth Lords
-![[realm of the mammoth lords.webp]]
+![](../../Images/Locations/realm%20of%20the%20mammoth%20lords.webp)
+
 Often simply called “the Realm,” this geographic region between the witch-ruled nation of [Irrisen](Irrisen) to the west and the demon-plagued [Sarkoris Scar](Worldwound) to the east lacks definable borders. The people of the Realm roam the broad span of tundra and mountains and consider the whole of the natural world their home. 
 
 Though [Mammoth Lord](Mammoth-Lord) [following](following)s are the most common  form of society in the [Realm of the Mammoth Lords](Realm-of-the-Mammoth-Lords), other types of societies exist as well, such as the permanent mountain encampment called [Hillcross](Hillcross), where many followings go to trade or negotiate treaties.
@@ -18,6 +19,7 @@ At its most granular level, the [Mammoth Lord](Mammoth-Lord)s are comprised of
 
 ## Fauna
 ![mammoth lord fauna.jpg](mammoth-lord-fauna.jpg)
+
 The most famous inhabitants of the land are its megafauna, including [mammoth](mammoth)s, mastodons, aurochs, bison, armored glyptodons and giant sloths. They are hunted by the land's powerful native predators including cave lions and smilodons. Tales of these enormous creatures fill the taprooms and taverns of the south and attract many a bold explorer or daring merchant to the [Realm of the Mammoth Lords](Realm-of-the-Mammoth-Lords). These beasts fetch a huge price in the markets of the south if they can be captured alive. Many never make it that far, as most such expeditions have to return through the [Hold of Belkzen](Hold-of-Belkzen), a dangerous proposition itself which is made worse by the [orc](orc)'s covetous love of these hugely powerful beasts.
 
 The [Kellid](Kellid) tribespeople of the Realm move with ease among the megafauna, taking them only when they need meat, fur, or beasts of burden.
