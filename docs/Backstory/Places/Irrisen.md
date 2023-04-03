@@ -2,7 +2,7 @@
 Tag: Place,Region
 ---
 # Irrisen
-![../../Images/Locations/Irrisen.jpg](Irrisen.jpg)
+![Irrisen.jpg](Irrisen.jpg)
 [Irrisen](https://pathfinderwiki.com/wiki/Irrisen) (pronounced IHR-ih-sehn) is a harsh, cold northern land covered in the snow and ice of a winter that has lasted centuries. The snow never melts, and almost as omnipresent as the snow and ice, is the feeling of dread that pervades the nation, for as harsh and unforgiving as the land is, it is nothing compared to those who rule it. The land has traditionally been governed by the White Witches of Irrisen, descendants of the terrible crone Baba Yaga. All the White Witches are obedient to their queen, who is traditionally a daughter of Baba Yaga, although the current queen Anastasia is Baba Yaga's granddaughter and the first of the line to not be a winter witch herself.
 
 Irrisen is a land dominated by the cold. It sits at the northernmost limits of [Avistan](Avistan.md) and borders the [Crown of the World](Crown-of-the-World.md) where its glacial sheets form Irrisen's northern border. Its northern location is not the only reason for its cold climate. Ever since being conquered by Baba Yaga, Irrisen has been locked in an eternal winter. This harsh climate gives Irrisen a palpable sense of dread. The second biggest geographical feature of Irrisen is Glacier Lake, which takes up a large area within Irrisen's interior. Two of Irrisen's three largest settlements are built either on its shore or on one of the rivers connected to it. Irrisen's capital, Whitethrone, sits on the lake's northeastern shore.
