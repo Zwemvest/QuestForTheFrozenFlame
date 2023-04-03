@@ -17,8 +17,9 @@ graph
   2-->34;
   41-->|Trains|2;
   41 -->|Trains|43;
-linkStyle default stroke-width:2px,fill:none,stroke:gray;
 ```
+
+
 [Broken Tusk](../Backstory/Organizations/Broken-Tusk.md)  
 [Wipa](../Backstory/NPCs/Broken-Tusk/Wipa.md)  
 [Pakano](../Backstory/NPCs/Broken-Tusk/Pakano.md)  
