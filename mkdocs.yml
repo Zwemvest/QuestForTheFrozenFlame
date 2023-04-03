@@ -46,8 +46,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - mermaid2
   - ezlinks
+  - mermaid2
 
 extra_javascript:
   - javascripts/mathjax.js
