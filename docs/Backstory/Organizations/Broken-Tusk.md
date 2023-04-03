@@ -5,7 +5,7 @@ Tag: Organization
 **Full name: Banner of the Broken Tusk**
 Though those who call themselves “Broken Tusks” can [[Original-Broken-Tusk|trace their lineage back thousands of years]], the banner of the Broken Tusk itself —which symbolizes the values of its followers— is fairly new. 
 
-Six generations ago, a terrible evil crawled from the earth and threatened the land. To stave off this evil, a few [[Broken-Tusk-Rebels|rebellious members]] of one following made a great sacrifice. The other members, feeling betrayed, took their banner with them, [[The-Schism|forcing the rebels who remained to make a new name and identity for themselves]]. To symbolize their perseverance in the face of overwhelming odds, the rebels called themselves the Broken Tusk.
+Six generations ago, a terrible evil crawled from the earth and threatened the land. To stave off this evil, a few rebellious members of one following made a great sacrifice. The other members, feeling betrayed, took their banner with them, [[The-Schism|forcing the rebels who remained to make a new name and identity for themselves]]. To symbolize their perseverance in the face of overwhelming odds, the rebels called themselves the Broken Tusk.
 
 The [[Broken-Tusk]] deity is [[Sister-Cinder]]. The Broken Tusk [[following]] numbers 74.
 

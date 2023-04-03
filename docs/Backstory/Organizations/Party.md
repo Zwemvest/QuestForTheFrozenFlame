@@ -2,7 +2,9 @@
 Tag: Organization
 ---
 # Party
-Our party is a small group, consisting of [[Kaska]], [[Willow]], [[Cali]], and myself, [[Xiat]].
+Our party is a small group, consisting of [[Kaska]], [[Willow]], [[Teeththief]], and myself, [[Xiat]].
+
+It used to include [[Cali]].
 
 We're a party of the [[Broken-Tusk]] tribe.
 
