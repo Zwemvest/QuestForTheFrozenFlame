@@ -25,10 +25,10 @@
 ## Calistril
 | Day | Hyperlink                     | Event                                    |Items found|
 | --- | ----------------------------- | ---------------------------------------- |----------------- |
-| 25  | [[Session-1#25 Calistril 4072\|Session 1#25 Calistril 4072]] | Hunting a giant elk                      | |
-| 26  | [[Session-1#26 Calistril 4072\|Session 1#26 Calistril 4072]] | Taming some tapirs, attack by 2 warriors | |
+| 25  | [[Session-1#25 Calistril 4072\|Session 1#25 Calistril 4072]] | Hunting a giant [[moose]]                      | Remains of a moose, antlers of a moose, bones of a moose |
+| 26  | [[Session-1#26 Calistril 4072\|Session 1#26 Calistril 4072]] | Taming some tapirs, attack by 2 warriors | 2 tapirs |
 | 27  | [[Session-2#27 Calistril 4072\|Session 2#27 Calistril 4072]] | Getting cleansing water, found a spear, pranked by [[Kalbo]] | [[Kaskas-spear\|Kaskas spear]], [[Mudlily]], [[Hunters-Bane-Talisman\|Hunters Bane Talisman]] |
-| 28  | [[Session-2#28 Calistril 4072\|Session 2#28 Calistril 4072]] | Cleaning up the rockloom, found [[Shaggy-Shemven\|Shaggy Shemven]]  | |
+| 28  | [[Session-2#28 Calistril 4072\|Session 2#28 Calistril 4072]] | Cleaning up the rockloom, found [[Shaggy-Shemven\|Shaggy Shemven]]  | a lensatic compass and a gold pendant with a garnet gem worth 15 gp. |
 
 ### Pharast
 | Day | Hyperlink | Event                   |

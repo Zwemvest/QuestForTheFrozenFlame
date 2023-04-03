@@ -6,7 +6,7 @@ Present: [[Xiat]], [[Kaska]], [[Willow]] , [[Teeththief]]
 ## 27 Calistril 4072
 We wake up early in the morning. [[Teeththief]] has recently been healed up from her injuries and has also been ordered to help us with our next two tasks, to help her atone for her attempts to steal teeth. We allow her to join.
 
-Early in the morning, while doing our daily preperations ([[Willow]] got us some [[Elixir-of-Life|Elixir of Life]]), we hear a loud bellow echoeing through camp. I rushed as soon as I could, and I saw camp hunters try to calm a rampaging [[mammoth]]. The [[mammoth]] had some spines stuck in it's feet. I helped calm the [[mammoth]].
+Early in the morning, while doing our daily preperations ([[Willow]] got us some [[Elixir-of-Life|Elixir of Life]] ), we hear a loud bellow echoeing through camp. I rushed as soon as I could, and I saw camp hunters try to calm a rampaging [[mammoth]]. The [[mammoth]] had some spines stuck in it's feet. I helped calm the [[mammoth]].
 
 Meanwhile, [[Kaska]] ran to the [[mammoth]] and saw a few porcupines. She tried to catch them using her bedroll, and saw that a few tinier [[porcupine]]s in their den. This could've been a disaster! It seems we set up our [[mammoth]] pasture on top of a [[porcupine]] den! 
 
@@ -52,6 +52,8 @@ In return, [[Shaggy-Shemven|Shaggy]] showed us his [[stone-stride|stone stride]]
 He'd go on and also show us his [[Shape-Stone|Shape Stone]] ability, which can be easily used to meld rocks back as if they were never broken. I used a lever and some rope to get the [[Rock-loom#Raven statue|Raven Statue]] back into position, and [[Shaggy-Shemven|Shaggy]] would go on to repair it. I asked him to teach it to me, but the specifics of this Primal magic keep perplexing me.
 
 With a bit of friendly conversion, we told him about our [[Broken-Tusk|Tribe]]. [[Shaggy-Shemven|Shaggy]] was absolutely amazed, to the point of fascination, and decided to join our [[Broken-Tusk|Tribe]].
+
+Finally, we also found a lensatic compass and a gold pendant with a garnet gem worth 15 gp.
 
 ## Evening of 28 Calistril 4072
 

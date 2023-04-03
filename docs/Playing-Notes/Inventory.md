@@ -5,6 +5,7 @@
 - [Two tapirs](Session-1#29 Abadius 4072)
 
 ## Party
+-  a lensatic compass and a gold pendant with a garnet gem worth 15 gp.
 
 ## [[Willow]]
 - [Bones of a moose](Session-1#29 Abadius 4072)
