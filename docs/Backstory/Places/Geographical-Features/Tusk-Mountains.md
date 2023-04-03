@@ -6,7 +6,7 @@ One of the great mountain ranges of [[Avistan]]'s north, the Tusk Mountains are 
 
 Despite their many dangers, the Tusk Mountains are known for their many passes. The range divides the [[Realm-of-the-Mammoth-Lords]] in half, separating the snowy west from the warmer east. 
 
-The [[Broken-Tusk-Rebels]] claims to be the strongest tribe west of the Turk Mountains.
+The [[Burning-Mammoth]] claims to be the strongest tribe west of the Turk Mountains.
 
 ## Places of Interest
 [[Earthnavel]]

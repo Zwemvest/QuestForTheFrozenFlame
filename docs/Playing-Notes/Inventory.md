@@ -11,7 +11,10 @@
 
 ## [[Kaska]]
 - [Antlers of a moose](Session-1#29 Abadius 4072)
+-  [[Kaskas-spear]] ([[Session-2#27 Calistril 4072]])
 
 ## [[Xiat]]
+[[Hunters-Bane-Talisman]]  ([[Session-2#27 Calistril 4072]])
 
-## [[Cali]]
+## [[Teeththief]]
+[[Mudlily]]  ([[Session-2#27 Calistril 4072]])

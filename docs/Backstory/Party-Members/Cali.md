@@ -17,4 +17,4 @@ status: alive
 | Good at              |                        |
 | In Summary           |                        |
 
-*Xiat's Note: One of our group members. Absent for the last 2 days. I respect Cali because Cali is a person in the same boat as me: a similair fighting style, and trying to get powerful enough to prove himself.* 
+*Xiat's Note: One of our tribe's members. Was supposed to join us on our scout training but never did. Don't know if they left the tribe, or something else happened. I respect Cali because Cali is a person in the same boat as me: a similair fighting style, and trying to get powerful enough to prove himself.* 
