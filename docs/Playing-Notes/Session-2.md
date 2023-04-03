@@ -1,3 +1,6 @@
+---
+Tag: Session
+---
 # Session 2
 Present: [[Xiat]], [[Kaska]], [[Willow]] , [[Teeththief]]
 ## 27 Calistril 4072

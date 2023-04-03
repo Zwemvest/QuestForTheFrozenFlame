@@ -1,3 +1,6 @@
+---
+Tag: Session
+---
 # Session 1
 Present: [[Xiat]], [[Kaska]], [[Willow]]  
 Absent: [[Cali]]  
