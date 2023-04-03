@@ -1,7 +1,7 @@
 const blogURL = document.querySelector('meta[name="site_url"]') ? document.querySelector('meta[name="site_url"]').content : location.origin;
 let position = ['top', 'right', 'bottom', 'left'];
 try {
-    const tip = tippy(`.md-content a[href^="${blogURL}"]`, {
+    const tip = tippy(`a[href^="$.."]`, {
         content: '',
         allowHTML: true,
         animation: 'scale-subtle',
