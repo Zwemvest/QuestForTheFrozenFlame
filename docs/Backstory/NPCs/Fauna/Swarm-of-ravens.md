@@ -10,4 +10,4 @@ A flock of ravens is known as an unkindness. Certainly the name lives up to its 
 Angry raven swarms may target their opponents’ vulnerable faces.
 
 ## Notes
-We were attacked by a swarm of ravens on [[Session-2#28 Calistril 4072|28 Calistril 4072]]. They tried to peck my eyes out! 
+We were attacked by a swarm of ravens on [28 Calistril 4072](Session-2#28 Calistril 4072). They tried to peck my eyes out! 

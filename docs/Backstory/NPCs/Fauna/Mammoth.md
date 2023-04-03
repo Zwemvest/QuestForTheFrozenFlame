@@ -8,14 +8,14 @@ See also: [[Elephant]]
 
 [Mammoths](https://pathfinderwiki.com/wiki/Elephant#Mammoths)s are a type of [[elephant]] that have long hair and larger tusks, and live in cold environments. They are more aggressive than common elephants due to living alongside more dangerous predators. 
 
-Mammoths are domesticated and used as beasts of burden by many cultures, including our tribe, the [[Broken-Tusk|Broken Tusk]]. However, their high intelligence means that they must be handled with great care. Mammoths are also valued as impressive mounts by [[orc]]s from the [[Hold-of-Belkzen|Hold of Belkzen]].
+Mammoths are domesticated and used as beasts of burden by many cultures, including our tribe, the [Broken Tusk](Broken-Tusk). However, their high intelligence means that they must be handled with great care. Mammoths are also valued as impressive mounts by [[orc]]s from the [Hold of Belkzen](Hold-of-Belkzen).
 
 Mammoths are also hunted for the ivory of their tusks, which can sell for very high prices. Certain groups perceive elephants as majestic creatures and seek to protect them, creating danger for elephant hunters.
 
 ## Notes
-[[Mammoth-Lord|Mammoth Lord]]s sometimes take a mammoth as their mount.
+[Mammoth Lord](Mammoth-Lord)s sometimes take a mammoth as their mount.
 
-[[Imek]] thought us a lot about our [[Broken-Tusk|tribe]]'s Mammoths. Sometimes we use [[tapir]]s as early warning canaries for the dangers that mammoths may face. 
+[[Imek]] thought us a lot about our [tribe](Broken-Tusk)'s Mammoths. Sometimes we use [[tapir]]s as early warning canaries for the dangers that mammoths may face. 
 
 ## Description
 The [woolly mammoth](https://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/elephant-mammoth/) is a relative of both the common [[elephant]] and the [[mastodon]]. Like the [[mastodon]], it is an herbivore and spends its days eating nuts, fruits, berries, and grasses. The typical mammoth consumes nearly 450 pounds of food and 50 gallons of water in a given day.

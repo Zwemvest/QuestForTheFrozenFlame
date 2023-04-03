@@ -19,4 +19,4 @@ status: alive
 
 *[[Xiat]]'s Note: One of our tribe's members. Was supposed to join us on our scout training but never did. Don't know if they left the tribe, or something else happened. I respect Cali because Cali is a person in the same boat as me: a similair fighting style, and trying to get powerful enough to prove himself.* 
 
-I haven't seen Cali since [[Session-1#25 Calistril 4072|25 Calistril 4072]]. We don't know what happened to him, did he leave the [[Broken-Tusk|Broken Tusk]]? Our fellow tribespeople are weirdly silent. 
+I haven't seen Cali since [25 Calistril 4072](Session-1#25 Calistril 4072). We don't know what happened to him, did he leave the [Broken Tusk](Broken-Tusk)? Our fellow tribespeople are weirdly silent. 

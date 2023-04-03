@@ -7,10 +7,10 @@ As an ancient people, [elves](https://2e.aonprd.com/Ancestries.aspx?ID=2) have s
 
 Elves combine otherworldly grace, sharp intellect, and mysterious charm in a way that is practically magnetic to members of other ancestries. They are often voraciously intellectual, though their studies delve into a level of detail that most shorter-lived peoples find excessive or inefficient. Valuing kindness and beauty, elves ever strive to improve their manners, appearance, and culture.
 
-Elves are often rather private people, steeped in the secrets of their groves and kinship groups. They’re slow to build friendships outside their kinsfolk, but for a specific reason: they subtly and deeply attune to their environment and their companions. There’s a physical element to this attunement, but it isn’t only superficial. Elves who spend their lives among [[Human|shorter‑lived peoples]] often develop a skewed perception of their own mortality and tend to become morose after watching generation after generation of companions age and die. These elves are called the Forlorn.
+Elves are often rather private people, steeped in the secrets of their groves and kinship groups. They’re slow to build friendships outside their kinsfolk, but for a specific reason: they subtly and deeply attune to their environment and their companions. There’s a physical element to this attunement, but it isn’t only superficial. Elves who spend their lives among [shorter‑lived peoples](Human) often develop a skewed perception of their own mortality and tend to become morose after watching generation after generation of companions age and die. These elves are called the Forlorn.
 
 ## Notes
-There are a few elves in the [[Broken-Tusk|Broken Tusk]] tribe. Some of them intermingle with [[human]]s, birthing half-elves.
+There are a few elves in the [Broken Tusk](Broken-Tusk) tribe. Some of them intermingle with [[human]]s, birthing half-elves.
 
 ## Physical Description
 While generally taller than [[human]]s, elves possess a fragile grace, accentuated by long features and sharply pointed ears. Their eyes are wide and almond-shaped, featuring large and vibrant-colored pupils that make up the entire visible portion of the eye. These pupils give them an alien look and allow them to see sharply even in very little light.  

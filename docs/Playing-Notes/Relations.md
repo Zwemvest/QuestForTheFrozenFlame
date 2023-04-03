@@ -4,7 +4,7 @@ graph
   1[Broken-Tusk];
   2[Party];
   31[Xiat];
-  32[Cali];
+  32[Teeththief];
   33[Kaska];
   34[Willow];
   41[Wipa];
@@ -19,11 +19,11 @@ graph
   41 -->|Trains|43;
 linkStyle default stroke-width:2px,fill:none,stroke:gray;
 ```
-[[Broken-Tusk|Broken Tusk]]  
+[Broken Tusk](Broken-Tusk)  
 [[Wipa]]  
 [[Pakano]]  
 [[Party]]  
 [[Xiat]]  
-[[Cali]]  
+[[Teeththief]]  
 [[Kaska]]  
 [[Willow]]  

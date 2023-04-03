@@ -7,4 +7,4 @@ The planet [Golarion](https://pathfinderwiki.com/wiki/Golarion) orbits a yellow 
 
 Golarion's crater-scarred moon, Somal, fills its night sky, and its nearest planetary neighbors, Castrovel the Green World and Akiton the Red Planet (second and fourth from the sun, respectively), are easily visible as colored stars.
 
-The [[Realm-of-the-Mammoth-Lords|Realm of the Mammoth Lords]] can be found in [[Avistan]], bordering the [[Crown-of-the-World|Crown of the World]] to the North. 
+The [Realm of the Mammoth Lords](Realm-of-the-Mammoth-Lords) can be found in [[Avistan]], bordering the [Crown of the World](Crown-of-the-World) to the North. 

@@ -13,7 +13,7 @@ status: alive
 | Age                  | 22                                                                      |     |
 | Alignment            | Chaotic Good                                                            |     |
 | Deity                | [[Desna]]                                                                   |     |
-| Languages | [[Hallit]], [[Lizardfolk\|Iruxi]], Draconic |
+| Languages | [[Hallit]], [Iruxi](Lizardfolk), Draconic |
 | Physical Description |                                                                         |     |
 | Good at              | Stargazing, missing hits, calming tapis                                 |     |
 | In Summary           |                                                                         |     |

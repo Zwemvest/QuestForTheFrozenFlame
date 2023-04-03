@@ -18,4 +18,4 @@ alias: Lost Raven Woman
 
 ![[Kadlaka.png]]
 
-The Lost Raven Woman is a mysterious Raven Woman that [[Shaggy-Shemven|Shaggy Shemven]] appears to have fallen in love with. 
+The Lost Raven Woman is a mysterious Raven Woman that [Shaggy Shemven](Shaggy-Shemven) appears to have fallen in love with. 

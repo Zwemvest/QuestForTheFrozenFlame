@@ -3,4 +3,4 @@ Tag: Organization
 alias: Xiat's Iruxi Tribe
 ---
 # Xiat's Iruxi Tribe
-This is [[Xiat|my]] [[Lizardfolk|Iruxi]] tribe. I was born as a Wintertouched [[Lizardfolk|Iruxi]], a rare [[Lizardfolk|Iruxi]] that has sort of a natural anti-freeze in their blood. However, since [[Lizardfolk|Iruxi]] are usually warmth-dwellers, I've been sent to live in the [[Realm-of-the-Mammoth-Lords|far north]], in a realm better suited for me. 
+This is [my](Xiat) [Iruxi](Lizardfolk) tribe. I was born as a Wintertouched [Iruxi](Lizardfolk), a rare [Iruxi](Lizardfolk) that has sort of a natural anti-freeze in their blood. However, since [Iruxi](Lizardfolk) are usually warmth-dwellers, I've been sent to live in the [far north](Realm-of-the-Mammoth-Lords), in a realm better suited for me. 

@@ -12,13 +12,13 @@ status: alive
 | Age                  |                                                                       |
 | Alignment            |                                                                       |
 | Deity                |                                                                       |
-| Physical Description | Small, young herder that's overly excited about the tribe's [[Mammoth\|Mammoths]]. |
-| Good at              | Info-dumping about [[Mammoth\|Mammoths]]                                           |
+| Physical Description | Small, young herder that's overly excited about the tribe's [Mammoths](Mammoth). |
+| Good at              | Info-dumping about [Mammoths](Mammoth)                                           |
 | In Summary           | Autism-coded                                                          |
 
 ![[imek.png]]
-The knowledgeable young herder Imek will help further the characters’ training as scouts. As native [[Broken-Tusk|Broken Tusks]], she can also teach the characters much about the history, customs, and values of the [[Broken-Tusk|Broken Tusk]] [[following]].
+The knowledgeable young herder Imek will help further the characters’ training as scouts. As native [Broken Tusks](Broken-Tusk), she can also teach the characters much about the history, customs, and values of the [Broken Tusk](Broken-Tusk) [[following]].
 
-Imek (female [[human]]) of [[Falcon-House|Falcon House]] loves animals and spends her days brushing out the woolly coats of the following’s domesticated mammoths. Other children bully and ostracize her, calling her a tattletale and a know-nothing, though her nine winters make her older than most of her taunters. She currently lacks the physical strength or friends to stand up to her rivals, but she hopes to one day become a great [[Mammoth]] rider all the same.
+Imek (female [[human]]) of [Falcon House](Falcon-House) loves animals and spends her days brushing out the woolly coats of the following’s domesticated mammoths. Other children bully and ostracize her, calling her a tattletale and a know-nothing, though her nine winters make her older than most of her taunters. She currently lacks the physical strength or friends to stand up to her rivals, but she hopes to one day become a great [[Mammoth]] rider all the same.
 
-*[[Xiat]]'s note: She can infodump about the [[Broken-Tusk|Broken Tusk]]s [[Mammoth]]s for days straight if you let her. I let her, it was great.*
+*[[Xiat]]'s note: She can infodump about the [Broken Tusk](Broken-Tusk)s [[Mammoth]]s for days straight if you let her. I let her, it was great.*

@@ -3,7 +3,7 @@ Tag: MonsterGroup
 alias: Green Dragon, Green Dragons
 ---
 # Green Dragon
-![[green-dragon.png|green dragon.png]]
+![green dragon.png](green-dragon.png)
 See also: [[Dragon]]
 
 [Green dragons](https://pathfinderwiki.com/wiki/Green_dragon) breathe acid-breath, live in temperate forests, and have a connection with both nature and the forest. Known to speak Elven and Sylvan, green dragons can often be swayed by diplomacy, anathema to many of their fellow chromatic dragons

@@ -2,7 +2,7 @@
 Tag: Place,Settlement
 ---
 # Tolguth
-Like the [[Realm-of-the-Mammoth-Lords|Realm of the Mammoth Lords]]' largest settlement, [[Icestair]], [Tolguth](https://pathfinderwiki.com/wiki/Tolguth) is nestled against the icy walls of the [[Crown-of-the-World|Crown of the World]]. Unlike [[Icestair]] it is a warm, almost tropical town, surrounded by great ferns, rhododendrons, and green cycads. The reason for this vast difference in temperature is the volcanic vents and thermal springs that dot the area. Within this valley roam fantastic creatures that are not found anywhere else in [[Avistan]]. 
+Like the [Realm of the Mammoth Lords](Realm-of-the-Mammoth-Lords)' largest settlement, [[Icestair]], [Tolguth](https://pathfinderwiki.com/wiki/Tolguth) is nestled against the icy walls of the [Crown of the World](Crown-of-the-World). Unlike [[Icestair]] it is a warm, almost tropical town, surrounded by great ferns, rhododendrons, and green cycads. The reason for this vast difference in temperature is the volcanic vents and thermal springs that dot the area. Within this valley roam fantastic creatures that are not found anywhere else in [[Avistan]]. 
 
 It has a population of about 3,700.
 

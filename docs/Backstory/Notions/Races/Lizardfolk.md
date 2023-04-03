@@ -7,10 +7,10 @@ Alias: Iruxi
 
 [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=15) move through the societies of other humanoids with the steely reserve of born predators. They have a well-deserved reputation as outstanding rangers and unsentimental fighters. Though Lizardfolk have adapted to many different environments, many of them still prefer to remain near bodies of water, using their ability to hold their breath to their advantage. As a result, Lizardfolk usually prefer equipment that is not easily damaged by moisture, eschewing leather and metal for gear made of stone, ivory, glass, and bone.
 
-Lizardfolk are consummate survivors, heirs to empires considered ancient even by the [[elf|elves]].
+Lizardfolk are consummate survivors, heirs to empires considered ancient even by the [elves](elf).
 
 ## Notes
-Lizardfolk are very rare in the [[Realm-of-the-Mammoth-Lords|Realm of the Mammoth Lords]], generally preferring warmer climates. 
+Lizardfolk are very rare in the [Realm of the Mammoth Lords](Realm-of-the-Mammoth-Lords), generally preferring warmer climates. 
 
 [[Xiat]] is a Lizardfolk, though outcast from Lizardfolk society
 

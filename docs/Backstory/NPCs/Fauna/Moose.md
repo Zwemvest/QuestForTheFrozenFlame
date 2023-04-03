@@ -6,7 +6,7 @@ Tag: fauna
 Moose are a large, solitary type of deer. They're majestic, territorial, and extremely grumpy—traits that make them dangerous to unwary travelers and would-be predators alike. Males are instantly recognizable, standing 7 feet tall at the shoulder, with large heads and thick necks to support their impressive palmate antlers. They shed their antlers come winter and grow a new set each year at a rapid rate.  
 
 ## Notes
-[[Kaska]], [[Willow]], [[Pakano]], and [[Xiat|me]] fought a moose on [[Session-1#29 Abadius 4072|29 Abadius 4072]]. Be very cautious of their antlers and their nasty kicks!
+[[Kaska]], [[Willow]], [[Pakano]], and [me](Xiat) fought a moose on [29 Abadius 4072](Session-1#29 Abadius 4072). Be very cautious of their antlers and their nasty kicks!
 
 ## Description
 For most of the year, moose roam tundra, forest, and wilderness territories by themselves. Their hooves are wide, allowing them to more easily traverse the frequent snowfall of their native terrain, and they typically journey alone. Moose come together only during mating season, a time in which they become oddly social with one another, loud, and even more aggressive to other creatures than usual.  
