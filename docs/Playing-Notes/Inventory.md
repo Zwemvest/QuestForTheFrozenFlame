@@ -1,8 +1,8 @@
 <font style="color:orangered">This page only tracks flavor items we've picked up along the way. It is not a substitute for your personal inventory tracking.</font>
 
 ## At Broken Tusk tribe
-- [Remains of a moose](Session-1#29 Abadius 4072)
-- [Two tapirs](Session-1#29 Abadius 4072)
+- [Remains of a moose](Session-1.md#25%20Calistril%204072)
+- [Two tapirs](Session-1.md#25%20Calistril%204072)
 
 ## Party
 -  a lensatic compass and a gold pendant with a garnet gem worth 15 gp.

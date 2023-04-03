@@ -23,7 +23,7 @@ The [Burning Mammoth](Burning-Mammoth) claims to be the strongest tribe west of 
 > A holy shrine for the local [Kellid](Kellid) people, now taken over by the [Jhodagarn clan](Jhodagarn-clan) clan.
 
 [Bos Phargrumm](Bos-Phargrumm)
->The ice castle of [Jarl Gnargorak](Jarl-Gnargorak), self-proclaimed king of all [frost giants](Giant#Frost Giant).
+>The ice castle of [Jarl Gnargorak](Jarl-Gnargorak), self-proclaimed king of all [Frost Giant](../../NPCs/Monsters/Frost-Giant.md).
 
 [Mammoth Graveyard](Mammoth-Graveyard)
 > Formerly, [Mammoth](Mammoth)s near the end of their lives travelled here to die. Now it's the home of creature's you'd rather not meet.
@@ -32,7 +32,7 @@ The [Burning Mammoth](Burning-Mammoth) claims to be the strongest tribe west of 
 > The interconnected maze of canyons bordering the [Worldwound](Worldwound)
 
 [Thremyrs Steps](Thremyrs-Steps)
-> Rocky passagge to the [Crown of the World](Crown-of-the-World) and sacred ground of the [frost giants](Giant#Frost Giant).
+> Rocky passagge to the [Crown of the World](Crown-of-the-World) and sacred ground of the [Frost Giant](../../NPCs/Monsters/Frost-Giant.md).
 
 [Tolguth](Tolguth)
 >A warm city nestled against the icy walls of the [Crown of the World](Crown-of-the-World)

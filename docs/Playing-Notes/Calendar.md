@@ -8,7 +8,7 @@
 | 4696-4697 |  [Willow](Willow) is born into the [Broken Tusk](Broken-Tusk) |
 | 4699-4700 | [Kaska](Kaska) is born into the [Broken Tusk](Broken-Tusk). [Xiat](Xiat) is born into the Iruxi.            |
 | 4708 | [Teeththief](Teeththief) is born amongst a snow goblin tribe |
-| 4715 |[Xiat](Xiat) is banished from the Iruxi and forced to wander the [the Realm](Realm-of-the-Mammoth-Lords)    |
+| 4715 |[Xiat](Xiat) is sent away the Iruxi towards [the Realm](Realm-of-the-Mammoth-Lords)    |
 | 4713-4718 | The [Worldwound](Worldwound) is closed in the [Fifth Mendevian Crusade](Fifth-Mendevian-Crusade) |
 | 4720 |[Xiat](Xiat) is accepted into the [Broken Tusk](Broken-Tusk)                                                   |
 | 4721 | [Wipa](Wipa)  is assigned to train [Willow](Willow), [Kaska](Kaska), [Cali](Cali) , and [Xiat](Xiat)  to become scouts |
@@ -25,10 +25,10 @@
 ## Calistril
 | Day | Hyperlink                     | Event                                    |Items found|
 | --- | ----------------------------- | ---------------------------------------- |----------------- |
-| 25  | [Session 1#25 Calistril 4072](Session-1#25 Calistril 4072) | Hunting a giant [moose](moose)                      | Remains of a moose, antlers of a moose, bones of a moose |
-| 26  | [Session 1#26 Calistril 4072](Session-1#26 Calistril 4072) | Taming some tapirs, attack by 2 warriors | 2 tapirs |
-| 27  | [Session 2#27 Calistril 4072](Session-2#27 Calistril 4072) | Getting cleansing water, found a spear, pranked by [Kalbo](Kalbo) | [Kaskas spear](Kaskas-spear), [Mudlily](Mudlily), [Hunters Bane Talisman](Hunters-Bane-Talisman) |
-| 28  | [Session 2#28 Calistril 4072](Session-2#28 Calistril 4072) | Cleaning up the rockloom, found [Shaggy Shemven](Shaggy-Shemven)  | a lensatic compass and a gold pendant with a garnet gem worth 15 gp. |
+| 25  | [25 Calistril 4072](Session-1.md#25%20Calistril%204072) | Hunting a giant [moose](moose)                      | Remains of a moose, antlers of a moose, bones of a moose |
+| 26  | [26 Calistril 4072](Session-1.md#26%20Calistril%204072) | Taming some tapirs, attack by 2 warriors | 2 tapirs |
+| 27  | [27 Calistril 4072](Session-2.md#27%20Calistril%204072) | Getting cleansing water, found a spear, pranked by [Kalbo](Kalbo) | [Kaskas spear](Kaskas-spear), [Mudlily](Mudlily), [Hunters Bane Talisman](Hunters-Bane-Talisman) |
+| 28  | [28 Calistril 4072](Session-2.md#28%20Calistril%204072) | Cleaning up the rockloom, found [Shaggy Shemven](Shaggy-Shemven)  | a lensatic compass and a gold pendant with a garnet gem worth 15 gp. |
 
 ### Pharast
 | Day | Hyperlink | Event                   |
