@@ -2,12 +2,14 @@
 ## Before game start
 | Date |  Event                                                                                           |
 |  ---  |  ---  | 
-| Some time after 4606 | The [[Broken-Tusk]] [splits](The-Schism) from the [[Burning-Mammoth]] |
-|4696-4697 |  [[Willow]] is born into the [[Broken-Tusk]] |
+| 4155 | The [[Great-Eastern-War]] takes place. Within a year, Queen Tashanna of [[Irrisen]] conqueres the West of the [[Realm-of-the-Mammoth-Lords]] |
+| 4606 | The [[Great-Quake]] takes place, and the [[Worldwound]] is opened. |
+| Some time after 4606 | The [[Broken-Tusk]] [splits](The-Schism) from the [[Burning-Mammoth]] during the [[Fifth-Mendevian-Crusade]]. The [[Broken-Tusk]] take the [[Primordial-Flame]] and hide it. |
+| 4696-4697 |  [[Willow]] is born into the [[Broken-Tusk]] |
 | 4699-4700 | [[Kaska]] is born into the [[Broken-Tusk]]. [[Xiat]] is born into the Iruxi.            |
 | 4708 | [[Teeththief]] is born amongst a snow goblin tribe |
 | 4715 |[[Xiat]] is banished from the Iruxi and forced to wander the Realms of the [[Mammoth-Lord]]s    |
-| 4713-4718 | The [[Worldwound]] is closed in the [Fifth Mendevian Crusade](Mendevian-Crusades) |
+| 4713-4718 | The [[Worldwound]] is closed in the [Fifth Mendevian Crusade](Fifth-Mendevian-Crusade.md) |
 | 4720 |[[Xiat]] is accepted into the [[Broken-Tusk]]                                                   |
 | 4721 | [[Wipa]]  is assigned to train [[Willow]], [[Kaska]], [[Cali]] , and [[Xiat]]  to become scouts |
 | 4721| [[Wipa]] becomes pregnant. [[Weohotan]] is the father.                                        |

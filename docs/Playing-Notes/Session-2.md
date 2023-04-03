@@ -59,10 +59,10 @@ In the small, squat tent where [[Grandfather-Eiwa]] spends his evenings, the old
 He offers a rueful smile.
 “How to make a long story short? I will try to put it simply. In the [[ethgir]]—the before times, when my ancestors were young—we [[Broken-Tusk]]s were called the [[Burning-Mammoth]]s. Our migratory route was large then, as was our herd. We carried with us a powerful light: the [[Primordial-Flame]].”
 
-He spreads the fire’s coals into a wide, flat layer. In the center of the coals, a perfectly round pebble glows, red hot. “Then, the [[Mendevian-Crusades|Great Quake]] shattered the eastern lands.” He tips a large, jagged rock from the fire ring into the coals. “Far as we were, our people still felt the thundering hooves of the demon horde.” 
+He spreads the fire’s coals into a wide, flat layer. In the center of the coals, a perfectly round pebble glows, red hot. “Then, the [[Fifth-Mendevian-Crusade|Great Quake]] shattered the eastern lands.” He tips a large, jagged rock from the fire ring into the coals. “Far as we were, our people still felt the thundering hooves of the demon horde.” 
 
 Earwigs and pill bugs scatter out of the hole left by the upturned stone.
 “Our [[Mammoth-Lord]]s argued over what to do with the light,” Eiwa continues. “In the end, some of us took the [[Primordial-Flame]]. We hid it where it would be safe.” With his stick, he separates a few coals from the rest, then moves the red-hot pebble next to the small group.
 
-“The [[Burning-Mammoth|others]] called us traitors and [[Mendevian-Crusades| went east to face the demons]], taking the banner of the [[Burning-mammoth]]s with them. Weak but determined to carry on, we took a new name: the [[Broken-Tusk]].
-“That was long ago, and much has happened since,” he says, dropping his stick into the fire. “But now, the [[Burning-mammoth]]s have returned? And in time for the Night of the [[Green-Moon-Festival]]. I cannot say what this means—my ancestors’ spirits are silent. But my bones tell me this will not be a happy reunion.”
+“The [[Burning-Mammoth|others]] called us traitors and [[Fifth-Mendevian-Crusade| went east to face the demons]], taking the banner of the [[Burning-Mammoth]]s with them. Weak but determined to carry on, we took a new name: the [[Broken-Tusk]].
+“That was long ago, and much has happened since,” he says, dropping his stick into the fire. “But now, the [[Burning-Mammoth]]s have returned? And in time for the Night of the [[Green-Moon-Festival]]. I cannot say what this means—my ancestors’ spirits are silent. But my bones tell me this will not be a happy reunion.”
