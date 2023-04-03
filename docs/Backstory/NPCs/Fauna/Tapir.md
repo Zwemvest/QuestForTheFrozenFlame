@@ -1,5 +1,6 @@
 ---
 Tag: fauna
+alias: Tapirs
 ---
 # Tapir
 ![[tapir.png]]

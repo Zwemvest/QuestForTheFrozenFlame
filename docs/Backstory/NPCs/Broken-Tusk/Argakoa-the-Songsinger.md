@@ -1,6 +1,7 @@
 ---
 Tag: BrokenTusk
 Status: Alive
+Alias: Argakoa the Songsinger
 ---
 # Argakoa the Songsinger
 

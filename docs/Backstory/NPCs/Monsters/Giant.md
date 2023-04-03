@@ -1,5 +1,6 @@
 ---
 Tag: MonsterGroup
+alias: Giants
 ---
 # Giant
 ![[giant.png]]

@@ -1,6 +1,7 @@
 ---
 Tag: BrokenTusk
 Status: Alive
+Alias: Eiwa, Grandfather Eiwa
 ---
 # Grandfather Eiwa
 

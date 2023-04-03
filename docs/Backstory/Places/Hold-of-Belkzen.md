@@ -1,5 +1,6 @@
 ---
 Tag: Place,Region
+alias: Hold of Belkzen, Belkzen
 ---
 # Hold of Belkzen
 ![[Hold-of-Belkzen.jpg]]

@@ -1,5 +1,6 @@
 ---
 Tag: fauna
+alias: Elephants
 ---
 # Elephant
 These thick-skinned animals bear large ivory tusks flanking a long, prehensile snout.

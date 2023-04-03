@@ -1,5 +1,6 @@
 ---
 Tag: MonsterGroup
+alias: Stone Giant, Stone Giants
 ---
 # Stone Giant
 See also: [[Giant]]

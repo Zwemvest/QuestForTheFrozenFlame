@@ -1,8 +1,9 @@
 ---
 Tag: Organization
+alias: Moose House
 ---
 # Moose House
-One of the [[House]]s of the [[Broken-Tusk]] tribe. House members spend most of their time with one another, sharing duties, forming friend groups, and occupying the same communal sleeping tent. Houses are typically represented by animals who individually embody courage, cleverness, and resilience. Broken Tusks typically identify themselves with just one of the animals represented in their house, and their personal effects often feature that animal.
+One of the [[House]]s of the [[Broken-Tusk]] tribe. [[House]] members spend most of their time with one another, sharing duties, forming friend groups, and occupying the same communal sleeping tent. [[House]]s are typically represented by animals who individually embody courage, cleverness, and resilience. [[Broken-Tusk]] typically identify themselves with just one of the animals represented in their [[house]], and their personal effects often feature that animal.
 
 Headed by [[Nakta-the-Healer]].
 

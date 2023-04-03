@@ -1,5 +1,6 @@
 ---
 Tag: fauna
+alias: Armored Glyptodon, Armored Glyptodons
 ---
 # Armored Glyptodon
 ![[Glyptodon.png]]

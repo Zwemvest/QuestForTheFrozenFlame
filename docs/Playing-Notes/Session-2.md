@@ -25,7 +25,7 @@ It told us to go across the river and pluck a lily. We kept trying to intimidate
 
 I complimented [[Kalbo]], which placated it. It's finally request was to check the nearby tree trunk. Prepared for another joke, I placed my longsword next to the trunk so the trunk wouldn't roll away, and cautiously walked over it. Just as I reached the end, a water spout hit me in the face. I acted like it was good joke.
 
-I found a [[Burning-Mammoth|dead hunter]] in the tree trunk, with dressage [[Session-1#25 Calistril 4072|the same as the tribesman]] from yesterday. It turns out we've finally found the owner of the hand on [[Kaska]]'s spear. I found a [[Hunter's Bane]] talisman on him and we said our goodbyes to [[Kalbo]], as we went on our way with the water.
+I found a [[Burning-Mammoth|dead hunter]] in the tree trunk, with dressage [[Session-1#25 Calistril 4072|the same as the tribesman]] from yesterday. It turns out we've finally found the owner of the hand on [[Kaska]]'s spear. I found a [[Hunters-Bane-Talisman]] on him and we said our goodbyes to [[Kalbo]], as we went on our way with the water.
 
 ## 28 Calistril 4072
 Present: [[Xiat]], [[Kaska]], [[Willow]] 
@@ -42,11 +42,11 @@ It didn't take long before we started to explore the small forest inlet, hoping 
 
 Sadly, [[Kaska]] and me probably should've taken a more cautious approach. As soon as we got close, a [[swarm-of-ravens|swarm of angry ravens]] attacked us. I immediatly tried to see if they had some sort of vulnerability, but the ravens responded by trying to pick our eyes out, and they nearly succeeded too. I got blinded for a bit as I took a ton of damage! Luckily [[Willow]] scared them away with a bomb.
 
-As we got closer, we found [[Shaggy-Shemven]] with the remainder of the [[Rock-loom#Raven statue|Raven Statue]]. [[Shaggy-Shemven|Shaggy]] is a male [[Korred]] searching for his [[lost raven wife]]. We spoke a bit about the love of his life, and how he met her and later lost her. We immediatly promised to help him find his wife.
+As we got closer, we found [[Shaggy-Shemven]] with the remainder of the [[Rock-loom#Raven statue|Raven Statue]]. [[Shaggy-Shemven|Shaggy]] is a male [[Korred]] searching for his [[lost-raven-woman]]. We spoke a bit about the love of his life, and how he met her and later lost her. We immediatly promised to help him find his wife.
 
 In return, [[Shaggy-Shemven|Shaggy]] showed us his [[stone-stride]] ability. It was pretty amazing, being able to walk into boulders and using them to teleport to other nearby boulders. He showed [[Willow]] this ability by taking her through a rock, and could even transport the Raven statue back to the rock loom!
 
-He'd go on and also show us his [[stonemelding]] ability, which can be easily used to meld rocks back as if they were never broken. I used a lever and some rope to get the [[Rock-loom#Raven statue|Raven Statue]] back into position, and [[Shaggy-Shemven|Shaggy]] would go on to repair it. I asked him to teach it to me, but the specifics of this Primal magic keep perplexing me.
+He'd go on and also show us his [[Shape-Stone]] ability, which can be easily used to meld rocks back as if they were never broken. I used a lever and some rope to get the [[Rock-loom#Raven statue|Raven Statue]] back into position, and [[Shaggy-Shemven|Shaggy]] would go on to repair it. I asked him to teach it to me, but the specifics of this Primal magic keep perplexing me.
 
 With a bit of friendly conversion, we told him about our [[Broken-Tusk|Tribe]]. [[Shaggy-Shemven|Shaggy]] was absolutely amazed, to the point of fascination, and decided to join our [[Broken-Tusk|Tribe]].
 
@@ -57,12 +57,13 @@ That evening, [[Grandfather-Eiwa]] spoke to us and explained our ancestry and ou
 In the small, squat tent where [[Grandfather-Eiwa]] spends his evenings, the old man stoops beside his fire ring. His expressive face, wrinkled from many years of good humor, is now a portrait of sadness. “Come, sit,” he says. He pokes the embers with a stick. “I had hoped you would never need to hear the story I am about to tell you. Or at least I would not be the one to have to tell it.” 
 
 He offers a rueful smile.
-“How to make a long story short? I will try to put it simply. In the [[ethgir]]—the before times, when my ancestors were young—we [[Broken-Tusk]]s were called the [[Burning-Mammoth]]s. Our migratory route was large then, as was our herd. We carried with us a powerful light: the [[Primordial-Flame]].”
+“How to make a long story short? I will try to put it simply. In the [[ethgir]]—the before times, when my ancestors were young—we [[Broken-Tusk]]s were called the [[Original-Burning-Mammoth|Burning Mammoths]]s. Our migratory route was large then, as was our herd. We carried with us a powerful light: the [[Primordial-Flame]].”
 
 He spreads the fire’s coals into a wide, flat layer. In the center of the coals, a perfectly round pebble glows, red hot. “Then, the [[Fifth-Mendevian-Crusade|Great Quake]] shattered the eastern lands.” He tips a large, jagged rock from the fire ring into the coals. “Far as we were, our people still felt the thundering hooves of the demon horde.” 
 
 Earwigs and pill bugs scatter out of the hole left by the upturned stone.
 “Our [[Mammoth-Lord]]s argued over what to do with the light,” Eiwa continues. “In the end, some of us took the [[Primordial-Flame]]. We hid it where it would be safe.” With his stick, he separates a few coals from the rest, then moves the red-hot pebble next to the small group.
 
-“The [[Burning-Mammoth|others]] called us traitors and [[Fifth-Mendevian-Crusade| went east to face the demons]], taking the banner of the [[Burning-Mammoth]]s with them. Weak but determined to carry on, we took a new name: the [[Broken-Tusk]].
+“The [[Burning-Mammoth|others]] [[The-Schism|called us traitors]] and [[Fifth-Mendevian-Crusade| went east to face the demons]], taking the banner of the [[Burning-Mammoth]]s with them. Weak but determined to carry on, we took a new name: the [[Broken-Tusk]].
+
 “That was long ago, and much has happened since,” he says, dropping his stick into the fire. “But now, the [[Burning-Mammoth]]s have returned? And in time for the Night of the [[Green-Moon-Festival]]. I cannot say what this means—my ancestors’ spirits are silent. But my bones tell me this will not be a happy reunion.”

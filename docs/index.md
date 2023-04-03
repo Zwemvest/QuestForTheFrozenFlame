@@ -4,7 +4,7 @@ I suggest you can start reading some interesting backstories in the Backstory fo
 
 <font style="color:orangered">Out of character comments are written in orangered text</font> 
 <font style="color:deepskyblue">Information that Xiat doesn't have, but other party members do have, is written in deepskyblue text</font>
-*My (Xiat) personal comments are written in italics*
+*My ([[Xiat]]) personal comments are written in italics*
 
 ## Sessions
 [[Session-0]] tracks everything that happened in the days before we set off on our adventure

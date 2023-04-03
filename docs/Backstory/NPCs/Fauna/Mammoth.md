@@ -1,5 +1,6 @@
 ---
 Tag: fauna
+alias: Mammoths
 ---
 # Mammoth
 ![[Mammoth_rider.png]]

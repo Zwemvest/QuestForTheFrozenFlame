@@ -21,4 +21,4 @@ The knowledgeable young herder Imek will help further the characters’ training
 
 Imek (female [[human]]) of [[Falcon-House]] loves animals and spends her days brushing out the woolly coats of the following’s domesticated mammoths. Other children bully and ostracize her, calling her a tattletale and a know-nothing, though her nine winters make her older than most of her taunters. She currently lacks the physical strength or friends to stand up to her rivals, but she hopes to one day become a great [[Mammoth]] rider all the same.
 
-*Xiat's note: She can infodump about the Broken Tusks Mammoths for days straight if you let her. I let her, it was great.*
+*[[Xiat]]'s note: She can infodump about the [[Broken-Tusk]]s [[Mammoth]]s for days straight if you let her. I let her, it was great.*

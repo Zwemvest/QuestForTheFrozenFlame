@@ -1,5 +1,6 @@
 ---
 Tag: MonsterGroup
+alias: Storm Giant, Storm Giants
 ---
 # Storm Giant
 See also: [[Giant]]

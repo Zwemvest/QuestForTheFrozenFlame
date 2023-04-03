@@ -1,5 +1,6 @@
 ---
 Tag: MonsterGroup
+alias: White Dragon, White Dragons
 ---
 # White Dragon
 ![[white-dragon.png]]

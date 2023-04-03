@@ -1,5 +1,6 @@
 ---
 Tag: Organization
+alias: Mendevian Crusaders
 ---
 ## Mendevian Crusaders
 The [Mendevian Crusaders](https://pathfinderwiki.com/wiki/Mendevian_Crusades#Mendevian_Crusaders) are less organized than other knightly orders, united primarily by their desire to eliminate the expansion of [[demon]]s from the [[Worldwound]]. Not all of its members are selfless and honourable, but many epitomize true courage. Sheer desperation for able-bodied warriors causes the order to take shining knightly followers of Iomedae, as well as Hellknights, Pathfinders, and even lowly glory-seekers, ruffians, profiteers, and other undesirables.

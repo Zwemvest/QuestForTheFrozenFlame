@@ -1,5 +1,6 @@
 ---
 Tag: fauna
+alias: Smilodons
 ---
 # Smilodon
 The [smilodon](https://www.d20pfsrd.com/bestiary/monster-listings/animals/felines/smilodon-tohc/), also known as the saber-toothed cat, is a powerful feline predator that savors the flesh of large creatures such as mastodons, mammoths, elephants, bison, buffalo, deer, and other great cats (excluding other smilodons). Smilodons are noted scavengers and have no problem devouring another animal’s kill. Animals that resist the smilodon usually become part of the meal as well. Often mistakenly referred to as saber-toothed tigers by adventurers and sages, they are not in fact, related to tigers at all.

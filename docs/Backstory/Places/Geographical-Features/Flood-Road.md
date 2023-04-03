@@ -1,5 +1,6 @@
 ---
 Tag: Place,GeographicFeature
+alias: Flood Road
 ---
 # The Flood Road
 The [Flood Road](https://pathfinderwiki.com/wiki/Flood_Road) is a highway of cracked mud for most of the year that runs roughly parallel to the [[Tusk-Mountains]]. It begins south of the town of [[Hillcross]] in the [[Realm-of-the-Mammoth-Lords]] and runs in a southerly direction past the [[Algid-Wastes]], towards the [[orc]]ish [[Hold-of-Belkzen]]

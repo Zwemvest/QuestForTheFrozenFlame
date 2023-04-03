@@ -1,5 +1,6 @@
 ---
 Tag: Event
+Alias: Green Moon Festival
 ---
 # Green Moon Festival
 

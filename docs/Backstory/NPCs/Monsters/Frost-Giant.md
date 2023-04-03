@@ -1,5 +1,6 @@
 ---
 Tag: MonsterGroup
+alias: Frost Giant, Frost Giants
 ---
 # Frost Giant
 See also: [[Giant]]

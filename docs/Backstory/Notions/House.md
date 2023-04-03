@@ -1,5 +1,6 @@
 ---
 Tag: Notion
+Alias: "Houses"
 ---
 # House
 Each member of the [[Broken-Tusk]] [[following]] belongs to one of four different houses. Each is led by a single high-ranking Tusk (who’s also typically a [[Mammoth-Lord]], though not always). House members spend most of their time with one another, sharing duties, forming friend groups, and occupying the same communal sleeping tent.  

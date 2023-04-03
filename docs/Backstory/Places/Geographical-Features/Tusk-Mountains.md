@@ -1,5 +1,6 @@
 ---
 Tag: Place,GeographicFeature
+alias: Tusk Mountains
 ---
 # Tusk Mountains
 One of the great mountain ranges of [[Avistan]]'s north, the Tusk Mountains are a wild and dangerous place. They begin in the [[orc]] [[Hold-of-Belkzen]], running in a generally northern direction into the [[Realm-of-the-Mammoth-Lords]] all the way to the tundra at the northern reaches of [[Avistan]]. 

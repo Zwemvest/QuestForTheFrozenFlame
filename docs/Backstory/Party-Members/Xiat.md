@@ -12,7 +12,7 @@ status: alive
 | Class                | Magus                                                                   |     |
 | Age                  | 22                                                                      |     |
 | Alignment            | Chaotic Good                                                            |     |
-| Deity                | Desna                                                                   |     |
+| Deity                | [[Desna]]                                                                   |     |
 | Languages | [[Hallit]], Iruxi, Draconic |
 | Physical Description |                                                                         |     |
 | Good at              | Stargazing, missing hits, calming tapis                                 |     |

@@ -1,5 +1,6 @@
 ---
 Tag: MonsterGroup
+alias: Green Dragon, Green Dragons
 ---
 # Green Dragon
 ![[green-dragon.png]]

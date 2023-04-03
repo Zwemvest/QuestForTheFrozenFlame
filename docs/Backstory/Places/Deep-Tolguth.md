@@ -1,5 +1,6 @@
 ---
 Tag: Place,Region
+alias: Deep Tolguth
 ---
 # Deep Tolguth
 [Deep Tolguth](https://pathfinderwiki.com/wiki/Deep_Tolguth) is a deep tunnel system located miles beneath the surface, stretching from the western borders of the [[Realm-of-the-Mammoth-Lords]] through the [[Worldwound]] farther east. It may once have had a direct connection to the [[Mammoth-Lord]] settlement of [[Tolguth]] via the [[Earthnavel]], but if so, the tunnels have long since collapsed.

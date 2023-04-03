@@ -1,5 +1,6 @@
 ---
 Tag: fauna
+alias: Mastodons
 ---
 # Mastodon
 See also: [[Elephant]]

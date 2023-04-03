@@ -1,5 +1,6 @@
 ---
 Tag: fauna
+alias: Aurochs
 ---
 # Auroch
 [Aurochs](https://pathfinderwiki.com/wiki/Aurochs) are large migrating herd mammals, standing over 7 feet tall at the shoulder, which are closely related to domesticated cattle. They resemble large, razor-horned bison.

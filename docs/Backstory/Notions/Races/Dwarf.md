@@ -1,5 +1,6 @@
 ---
 Tag: Ancestry
+Alias: Dwarfs
 ---
 # Dwarf
 [Dwarves](https://2e.aonprd.com/Ancestries.aspx?ID=1) have a well-earned reputation as a stoic and stern people, ensconced within citadels and cities carved from solid rock. While some see them as dour and humorless crafters of stone and metal, dwarves and those who have spent time among them understand their unbridled zeal for their work, caring far more about quality than quantity. To a stranger, they can seem untrusting and clannish, but to their friends and family, they are warm and caring, their halls filled with the sounds of laughter and hammers hitting anvils.

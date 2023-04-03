@@ -1,5 +1,6 @@
 ---
 Tag: Organization
+alias: Original Burning Mammoth, Old Burning Mammoth
 ---
 # Original Burning Mammoth
 Before the [[Great-Quake]], the [[Burning-Mammoth]] and [[Broken-Tusk]] used to be a single tribe, also called the Burning Mammoth Tribe, named after the [[Primordial-Flame]] (and their plentiful [[Mammoth]]s, of course)

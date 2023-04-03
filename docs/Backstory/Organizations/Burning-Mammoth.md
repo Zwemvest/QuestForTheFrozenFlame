@@ -1,5 +1,6 @@
 ---
 Tag: Organization
+alias: Burning Mammoth, Burning Mammoth Tribe, Burning Mammoths, Banner of the Burning Mammoth
 ---
 # Burning Mammoth
 Six generations ago, a [[Demon|terrible evil]] [[Great-Quake|crawled from the earth]] and threatened the land. To stave off this evil, a [[Broken-Tusk|few rebellious members]] of one [[following]] made a great sacrifice. The other members, feeling betrayed, took their banner with them, [[The-Schism|forcing the rebels who remained to make a new name and identity for themselves]]. This tribe represents the remainder of the tribe who took the original banner, refered to as the "New Burning Mammoth" only for clarity. 

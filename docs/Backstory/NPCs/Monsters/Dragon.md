@@ -1,5 +1,6 @@
 ---
 Tag: MonsterGroup
+alias: Dragons
 ---
 # Dragon
 ![[Dragon.png]]

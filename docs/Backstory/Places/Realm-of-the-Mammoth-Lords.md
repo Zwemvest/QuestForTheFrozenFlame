@@ -1,11 +1,12 @@
 ---
 Tag: Place,Region
+alias: Realm of the Mammoth Lords
 ---
 # Realm of the Mammoth Lords
 ![[realm of the mammoth lords.webp]]
-Often simply called “the Realm,” this geographic region between the witch-ruled nation of [[Irrisen]] to the west and the demon-plagued [[Worldwound|Sarkoris Sca  [[orc]] to the east lacks definable borders. The people of the Realm roam the broad span of tundra and mountains and consider the whole of the natural world their home. 
+Often simply called “the Realm,” this geographic region between the witch-ruled nation of [[Irrisen]] to the west and the demon-plagued [[Worldwound|Sarkoris Scar]] to the east lacks definable borders. The people of the Realm roam the broad span of tundra and mountains and consider the whole of the natural world their home. 
 
-Though [[Mammoth-Lord]] [[following]]s are the most common  form of society in the Realm of the Mammoth Lords, other types of societies exist as well, such as the permanent mountain encampment called [[Hillcross]], where many followings go to trade or negotiate treaties.
+Though [[Mammoth-Lord]] [[following]]s are the most common  form of society in the [[Realm-of-the-Mammoth-Lords]], other types of societies exist as well, such as the permanent mountain encampment called [[Hillcross]], where many followings go to trade or negotiate treaties.
 
 ## Geographical location
 The [Realm of the Mammoth Lords](https://pathfinderwiki.com/wiki/Realm_of_the_Mammoth_Lords) sits in the far north of [[Avistan]] wedged against the vast, icy nothingness of the [[Crown-of-the-World]]. To its east lies the demon-infested wasteland of the [[Worldwound]], while it shares its western border with icy queendom of [[Irrisen]]. The [[orc]]s make frequent raids from the [[Hold-of-Belkzen]] to the south in order to capture megafauna to use in their war machines. 
@@ -17,7 +18,7 @@ At its most granular level, the [[Mammoth-Lord]]s are comprised of [[Kellid]] 
 
 ## Fauna
 ![[mammoth-lord-fauna.jpg]]
-The most famous inhabitants of the land are its megafauna, including mammoths, mastodons, aurochs, bison, armored glyptodons and giant sloths. They are hunted by the land's powerful native predators including cave lions and smilodons. Tales of these enormous creatures fill the taprooms and taverns of the south and attract many a bold explorer or daring merchant to the Realm of the Mammoth Lords. These beasts fetch a huge price in the markets of the south if they can be captured alive. Many never make it that far, as most such expeditions have to return through the [[Hold-of-Belkzen]], a dangerous proposition itself which is made worse by the [[orc]]'s covetous love of these hugely powerful beasts.
+The most famous inhabitants of the land are its megafauna, including [[mammoth]]s, mastodons, aurochs, bison, armored glyptodons and giant sloths. They are hunted by the land's powerful native predators including cave lions and smilodons. Tales of these enormous creatures fill the taprooms and taverns of the south and attract many a bold explorer or daring merchant to the [[Realm-of-the-Mammoth-Lords]]. These beasts fetch a huge price in the markets of the south if they can be captured alive. Many never make it that far, as most such expeditions have to return through the [[Hold-of-Belkzen]], a dangerous proposition itself which is made worse by the [[orc]]'s covetous love of these hugely powerful beasts.
 
 The [[Kellid]] tribespeople of the Realm move with ease among the megafauna, taking them only when they need meat, fur, or beasts of burden.
 
@@ -51,4 +52,4 @@ The [[Kellid]] tribespeople of the Realm move with ease among the megafauna, tak
 [[Ruins-of-Tashagrot]]
 [[Thremyrs-Steps]]
 
-*Xiat's Note: This is the land where we are. It's a hostile land for a[[Lizardfolk]], but I'm glad I found the [[Broken-Tusk]] tribe to help me survive this.* 
+*[[Xiat]]'s Note: This is the land where we are. It's a hostile land for a[[Lizardfolk]], but I'm glad I found the [[Broken-Tusk]] tribe to help me survive this.* 

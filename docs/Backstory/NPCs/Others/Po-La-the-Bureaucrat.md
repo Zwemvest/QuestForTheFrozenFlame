@@ -1,12 +1,13 @@
 ---
 tag: OtherHuman
 status: alive
+alias: Po La, Po La the Bureaucrat
 ---
 # Po La
 | Full Name            | Po La the Bureaucrat |
 | -------------------- | -------------------- |
 | Pronouns             | He/him               |
-| Ancestry             | Tian [[human]]           |
+| Ancestry             | [[Tian]] [[human]]           |
 | Class/Occupation     | Bureaucrat           |
 | Age                  |                      |
 | Alignment            |                      |

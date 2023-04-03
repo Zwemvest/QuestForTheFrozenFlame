@@ -1,5 +1,6 @@
 ---
 Tag: fauna
+alias: Porcupines
 ---
 # Porcupine
 ![[questforthefrozenflame/docs/Images/Monsters/PorcupineGiant.png]]

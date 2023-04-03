@@ -1,5 +1,6 @@
 ---
 Tag: fauna
+alias: Cave Lion, Cave Lions
 ---
 # Cave Lion
 Cave lions are larger, fiercer, relatives of the common lion and roam uncivilized plains in cold or mild climates. They resemble normal lions in most respects save for the oversized canines these creatures possess (though not as long as the [[smilodon]]’s teeth). Those that dwell in forested areas build their lairs among the thick underbrush while those found in more mountainous regions inhabit deep caves. A pride consists of one or more families and a family consists of at least one male and a number of females and cubs.
