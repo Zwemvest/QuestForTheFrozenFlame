@@ -1,4 +1,4 @@
-![../Images/map.PNG](map.PNG)
+![map](../Images/map.PNG)
 ## Legend: 
 For detailed geographical map, see [Realm of the Mammoth Lords](../Backstory/Places/Realm-of-the-Mammoth-Lords.md)
 Settlements (white dot, black text)
