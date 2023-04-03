@@ -10,7 +10,7 @@ Alias: Iruxi
 Lizardfolk are consummate survivors, heirs to empires considered ancient even by the [[elf|elves]].
 
 ## Notes
-Lizardfolk are very rare in the [[Realm-of-the-Mammoth-Lords]], generally preferring warmer climates. 
+Lizardfolk are very rare in the [[Realm-of-the-Mammoth-Lords|Realm of the Mammoth Lords]], generally preferring warmer climates. 
 
 [[Xiat]] is a Lizardfolk, though outcast from Lizardfolk society
 

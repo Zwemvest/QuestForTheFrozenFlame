@@ -9,7 +9,7 @@ aliases: Eiwa, Grandfather Eiwa
 | -------------------- | -------------------------------------------------------------------- |
 | Pronouns             | He/him                                                               |
 | Ancestry             | Elvish                                                               |
-| Class/Occupation     |  [[Mammoth-Lord]], Wise old grandfather, Leader of [[Falcon-House]]                               |
+| Class/Occupation     |  [[Mammoth-Lord|Mammoth Lord]], Wise old grandfather, Leader of [[Falcon-House|Falcon House]]                               |
 | Age                  | Decades                                                              |
 | Alignment            |                                                                      |
 | Deity                |                                                                      |

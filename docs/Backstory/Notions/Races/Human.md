@@ -8,7 +8,7 @@ As unpredictable and varied as any of [[Golarion]]’s peoples, [human](https://
 Humans’ ambition, versatility, and exceptional potential have led to their status as the world’s predominant ancestry. Their empires and nations are vast, sprawling things, and their citizens carve names for themselves with the strength of their sword arms and the power of their spells. humanity is diverse and tumultuous, running the gamut from [[Kellid|nomadic]] to imperial, sinister to saintly. Many of them venture forth to explore, to map the expanse of the multiverse, to search for long-lost treasure, or to lead mighty armies to conquer their neighbors—for no better reason than because they can.
 
 ## Notes
-[[Kellid]] are the predocuminant group of humans in the [[Realm-of-the-Mammoth-Lords]].
+[[Kellid]] are the predocuminant group of humans in the [[Realm-of-the-Mammoth-Lords|Realm of the Mammoth Lords]].
 
 [[Cali]] is a human. 
 

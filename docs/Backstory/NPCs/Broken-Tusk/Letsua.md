@@ -8,11 +8,11 @@ Status: Alive
 | -------------------- | ------------------------------------- |
 | Pronouns             | He/him                                |
 | Ancestry             |                                       |
-| Class/Occupation     |  [[Mammoth-Lord]]                         |
+| Class/Occupation     |  [[Mammoth-Lord|Mammoth Lord]]                         |
 | Age                  |                                       |
 | Alignment            |                                       |
 | Deity                |                                       |
 | Physical Description |                                       |
 | Good at              |                                       |
-| In Summary           | Husband to [[Argakoa-the-Songsinger]] |
+| In Summary           | Husband to [[Argakoa-the-Songsinger|Argakoa the Songsinger]] |
 

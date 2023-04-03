@@ -10,7 +10,7 @@ Orcs often struggle to gain acceptance among other communities, who frequently s
 Orc culture teaches that they are shaped by the challenges they survive, and the most worthy survive the most hardships. orcs who attain both a long life and great triumphs command immense respect.
 
 ## Notes
-The [[Kellid|people]] in the [[Realm-of-the-Mammoth-Lords]] have a difficult relationship with orcs, since most will come from the [[Hold-of-Belkzen]] to raid on their megafauna. However, the [[Broken-Tusk|Broken Tusk]] tribe isn't very picky about who joins, as long as you can prove yourself. 
+The [[Kellid|people]] in the [[Realm-of-the-Mammoth-Lords|Realm of the Mammoth Lords]] have a difficult relationship with orcs, since most will come from the [[Hold-of-Belkzen|Hold of Belkzen]] to raid on their megafauna. However, the [[Broken-Tusk|Broken Tusk]] tribe isn't very picky about who joins, as long as you can prove yourself. 
 
 [[Kaska]] is an orc.
 
