@@ -55,6 +55,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
   - javascripts/wiki_hover.js
+  - assets/js/wiki_hover.js
   
 extra_css:
   - stylesheets/tippy.css
+  - assets/css/tippy.css
