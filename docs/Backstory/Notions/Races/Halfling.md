@@ -12,7 +12,7 @@ Many taller people dismiss halflings due to their size or, worse, treat them lik
 While their wanderlust and curiosity sometimes drive them toward adventure, halflings also carry strong ties to [house](questforthefrozenflame/docs/Backstory/Notions/House.md) and home, often spending above their means to achieve comfort in their homelife.
 
 ## Notes
-[Willow](questforthefrozenflame/docs/Backstory/Party-Members/Willow.md) is a halfling. 
+[Willow](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Willow.md) is a halfling. 
 
 ## Physical Description
 Halflings are short humanoids who look vaguely like smaller [human](questforthefrozenflame/docs/Backstory/Notions/Races/Human.md)s. They rarely grow to be more than 3 feet in height. halfling proportions vary, with some looking like shorter adult [human](questforthefrozenflame/docs/Backstory/Notions/Races/Human.md)s with slightly larger heads and others having proportions closer to those of a [human](questforthefrozenflame/docs/Backstory/Notions/Races/Human.md) child.  
@@ -26,4 +26,4 @@ Despite their jovial and friendly nature, halflings don’t usually tend to cong
   
 Wherever halflings go, they seamlessly blend into the society they find themselves in, adapting to the culture of the predominant ancestry around them and adding their uniquely halfling twists, creating a blend of cultural diffusion that enriches both cultures.
 
-*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s note: why do we call halflings halflings? Shouldn't [human](questforthefrozenflame/docs/Backstory/Notions/Races/Human.md)s be called doublelings?*
+*[Xiat](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Xiat.md)'s note: why do we call halflings halflings? Shouldn't [human](questforthefrozenflame/docs/Backstory/Notions/Races/Human.md)s be called doublelings?*

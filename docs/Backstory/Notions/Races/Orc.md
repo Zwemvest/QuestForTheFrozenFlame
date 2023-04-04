@@ -12,7 +12,7 @@ Orc culture teaches that they are shaped by the challenges they survive, and the
 ## Notes
 The [people](questforthefrozenflame/docs/Backstory/Notions/Kellid.md) in the [Realm of the Mammoth Lords](questforthefrozenflame/docs/Backstory/Places/Realm-of-the-Mammoth-Lords.md) have a difficult relationship with orcs, since most will come from the [Hold of Belkzen](questforthefrozenflame/docs/Backstory/Places/Hold-of-Belkzen.md) to raid on their megafauna. However, the [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md) tribe isn't very picky about who joins, as long as you can prove yourself. 
 
-[Kaska](questforthefrozenflame/docs/Backstory/Party-Members/Kaska.md) is an orc.
+[Kaska](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Kaska.md) is an orc.
 
 ## Physical Description
 Orcs are tall and powerfully built, with long arms and stocky legs. Many orcs top 7 feet in height, though they tend to adopt broad, almost bow-legged stances and slouch forward at the shoulders. The combination makes for a seeming contradiction, sharing an eye level with most humanoids while simultaneously towering over them. orcs have rough skin, thick bones, and rock-hard muscles, making them suited to war and other physically demanding tasks. Despite the roughness of their skin, orcs scar easily, and most orcs take great pride in the scars they have accumulated. orc skin color is typically green and occasionally gray, though some orcs have other skin colors that reflect adaptations to their environments.  

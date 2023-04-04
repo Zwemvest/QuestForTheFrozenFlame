@@ -55,4 +55,4 @@ The [Kellid](questforthefrozenflame/docs/Backstory/Notions/Kellid.md) tribespeop
 * [Ruins of Tashagrot](questforthefrozenflame/docs/Backstory/Places/Places-of-Interest/Ruins-of-Tashagrot.md)
 * [Thremyrs Steps](questforthefrozenflame/docs/Backstory/Places/Places-of-Interest/Thremyrs-Steps.md)
 
-*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s Note: This is the land where we are. It's a hostile land for a[Lizardfolk](questforthefrozenflame/docs/Backstory/Notions/Races/Lizardfolk.md), but I'm glad I found the [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md) tribe to help me survive this.* 
+*[Xiat](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Xiat.md)'s Note: This is the land where we are. It's a hostile land for a [Lizardfolk](questforthefrozenflame/docs/Backstory/Notions/Races/Lizardfolk.md), but I'm glad I found the [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md) tribe to help me survive this.* 

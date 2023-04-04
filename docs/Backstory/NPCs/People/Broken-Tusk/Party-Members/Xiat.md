@@ -18,4 +18,6 @@ status: alive
 | Good at              | Stargazing, missing hits, calming tapis                                 |     |
 | In Summary           |                                                                         |     |
 
-*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s Note: It's me!*
+![](questforthefrozenflame/docs/Images/People/index.png)
+
+*[Xiat](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Xiat.md)'s Note: It's me!*

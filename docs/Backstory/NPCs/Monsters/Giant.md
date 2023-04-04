@@ -21,4 +21,4 @@ The [Kellid](questforthefrozenflame/docs/Backstory/Notions/Kellid.md)s of the [R
 [Stone Giant](questforthefrozenflame/docs/Backstory/NPCs/Monsters/Stone-Giant.md)
 >Large humanoids with dark gray, leathery skin, preferring to live in solitude in hills, caves, and mountains. Because of their skin color they tend to blend in among their stony surroundings.
 
-*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s Note: you'd think the name would be enough to know what they are, yet here we are*
+*[Xiat](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Xiat.md)'s Note: you'd think the name would be enough to know what they are, yet here we are*

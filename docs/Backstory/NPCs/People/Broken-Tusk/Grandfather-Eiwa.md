@@ -17,4 +17,4 @@ aliases: Eiwa, Grandfather Eiwa
 | Good at              |                                                                      |
 | In Summary           |                                                                      |
 
-*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s note: Everything flaps when he talks. Guess even elves start to suffer from wrinkles when they grow ancient.*
+*[Xiat](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Xiat.md)'s note: Everything flaps when he talks. Guess even elves start to suffer from wrinkles when they grow ancient.*

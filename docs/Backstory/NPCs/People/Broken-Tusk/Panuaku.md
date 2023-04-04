@@ -16,7 +16,7 @@ status: alive
 | Good at              |     |
 | In Summary           |     |
 
-Half-elf child of [Argakoa](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Argakoa-the-Songsinger.md) and [Letsua](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Letsua.md) 
+Half-elf child of [Argakoa](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Argakoa-the-Songsinger.md) and [Letsua](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Letsua.md) 
 
 The spirited hunter Panuaku will help further the characters’ training as scouts. As native [Broken Tusks](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md), she can also teach the characters much about the history, customs, and values of the [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md) [following](questforthefrozenflame/docs/Backstory/Notions/Following.md).
  

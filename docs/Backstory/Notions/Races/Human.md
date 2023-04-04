@@ -10,7 +10,7 @@ Humans’ ambition, versatility, and exceptional potential have led to their sta
 ## Notes
 [Kellid](questforthefrozenflame/docs/Backstory/Notions/Kellid.md) are the predocuminant group of humans in the [Realm of the Mammoth Lords](questforthefrozenflame/docs/Backstory/Places/Realm-of-the-Mammoth-Lords.md).
 
-[Cali](questforthefrozenflame/docs/Backstory/Party-Members/Cali.md) is a human. 
+[Cali](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Cali.md) is a human. 
 
 ## Physical Description
 Humans' physical characteristics are as varied as the world's climes. humans have a wide variety of skin and hair colors, body types, and facial features. Generally speaking, their skin has a darker hue the closer to the equator they or their ancestors lived.  

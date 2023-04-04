@@ -1,4 +1,4 @@
-[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md) Basic Rotation:
+[Xiat](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Xiat.md) Basic Rotation:
 
 ```mermaid
 graph

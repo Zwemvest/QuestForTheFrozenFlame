@@ -14,5 +14,5 @@ Status: Alive
 | Deity                |                                       |
 | Physical Description |                                       |
 | Good at              |                                       |
-| In Summary           | Husband to [Argakoa the Songsinger](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Argakoa-the-Songsinger.md) |
+| In Summary           | Husband to [Argakoa the Songsinger](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Argakoa-the-Songsinger.md) |
 

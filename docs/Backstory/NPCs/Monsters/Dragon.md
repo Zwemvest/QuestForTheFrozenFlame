@@ -15,4 +15,4 @@ Dragons are scaled, reptilian creatures with large wings capable of flight. A dr
 [White Dragon](questforthefrozenflame/docs/Backstory/NPCs/Monsters/White-Dragon.md)
 >White dragons live in cold mountain regions and arctic lowlands, making homes within freezing ice caves or other remote areas. 
 
-*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s Note: I wonder if I'm related to them.*
+*[Xiat](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Xiat.md)'s Note: I wonder if I'm related to them.*

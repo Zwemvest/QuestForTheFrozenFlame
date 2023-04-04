@@ -15,7 +15,7 @@ Mammoths are also hunted for the ivory of their tusks, which can sell for very h
 ## Notes
 [Mammoth Lord](questforthefrozenflame/docs/Backstory/Notions/Mammoth-Lord.md)s sometimes take a mammoth as their mount.
 
-[Imek](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Imek.md) thought us a lot about our [tribe](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md)'s Mammoths. Sometimes we use [tapir](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Tapir.md)s as early warning canaries for the dangers that mammoths may face. 
+[Imek](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Imek.md) thought us a lot about our [tribe](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md)'s Mammoths. Sometimes we use [tapir](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Tapir.md)s as early warning canaries for the dangers that mammoths may face. 
 
 ## Description
 The [woolly mammoth](https://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/elephant-mammoth/) is a relative of both the common [elephant](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Elephant.md) and the [mastodon](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Mastodon.md). Like the [mastodon](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Mastodon.md), it is an herbivore and spends its days eating nuts, fruits, berries, and grasses. The typical mammoth consumes nearly 450 pounds of food and 50 gallons of water in a given day.

@@ -23,10 +23,10 @@ graph
 
 
 [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md)  
-[Wipa](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Wipa.md)  
-[Pakano](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Pakano.md)  
+[Wipa](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Wipa.md)  
+[Pakano](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Pakano.md)  
 [Party](questforthefrozenflame/docs/Backstory/Organizations/Party.md)  
-[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)  
-[Teeththief](questforthefrozenflame/docs/Backstory/Party-Members/Teeththief.md)  
-[Kaska](questforthefrozenflame/docs/Backstory/Party-Members/Kaska.md)  
-[Willow](questforthefrozenflame/docs/Backstory/Party-Members/Willow.md)  
+[Xiat](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Xiat.md)  
+[Teeththief](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Teeththief.md)  
+[Kaska](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Kaska.md)  
+[Willow](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Willow.md)  

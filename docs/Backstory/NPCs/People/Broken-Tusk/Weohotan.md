@@ -14,4 +14,4 @@ status: dead
 | Deity                |                 |
 | Physical Description |                 |
 | Good at              |                 |
-| In Summary           |Best friend and the father of [Wipa](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Wipa.md)'s children. Died a few weeks ago in an accident while hunting aurochs with [Pakano](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Pakano.md). |
+| In Summary           |Best friend and the father of [Wipa](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Wipa.md)'s children. Died a few weeks ago in an accident while hunting aurochs with [Pakano](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Pakano.md). |

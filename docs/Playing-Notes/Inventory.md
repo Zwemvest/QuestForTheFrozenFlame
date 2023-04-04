@@ -7,15 +7,15 @@
 ## Party
 -  a lensatic compass and a gold pendant with a garnet gem worth 15 gp.
 
-## [Willow](questforthefrozenflame/docs/Backstory/Party-Members/Willow.md)
+## [Willow](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Willow.md)
 - [Bones of a moose](questforthefrozenflame/docs/Playing-Notes/Session-1.md#25%20Calistril%204722)
 
-## [Kaska](questforthefrozenflame/docs/Backstory/Party-Members/Kaska.md)
+## [Kaska](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Kaska.md)
 - [Antlers of a moose](questforthefrozenflame/docs/Playing-Notes/Session-1.md#25%20Calistril%204722)
 -  [Kaskas spear](questforthefrozenflame/docs/Backstory/Items/Kaskas-spear.md) ([27 Calistril 4722](questforthefrozenflame/docs/Playing-Notes/Session-2.md#27%20Calistril%204722))
 
-## [Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)
+## [Xiat](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Xiat.md)
 * [Hunter's Bane Talisman](questforthefrozenflame/docs/Backstory/Items/Hunters-Bane-Talisman.md) ([27 Calistril 4722](questforthefrozenflame/docs/Playing-Notes/Session-2.md#27%20Calistril%204722))
 
-## [Teeththief](questforthefrozenflame/docs/Backstory/Party-Members/Teeththief.md)
+## [Teeththief](questforthefrozenflame/docs/Backstory/NPCs/People/Broken-Tusk/Party-Members/Teeththief.md)
 * [Mudlily](questforthefrozenflame/docs/Backstory/Items/Mudlily.md)  ([27 Calistril 4722](questforthefrozenflame/docs/Playing-Notes/Session-2.md#27%20Calistril%204722))
