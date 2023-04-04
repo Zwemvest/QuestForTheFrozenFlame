@@ -3,6 +3,6 @@ Tag: Notion
 Alias: "Followings"
 ---
 # Following 
-In the [Realm of the Mammoth Lords](Realm-of-the-Mammoth-Lords),  followings are the predominant social structure. Most followings, including the [Broken Tusk](Broken-Tusk), migrate across the land in tandem with the region’s native fauna and  are led by strong, wise leaders called [Mammoth Lord](Mammoth-Lord)s.
+In the [Realm of the Mammoth Lords](questforthefrozenflame/docs/Backstory/Places/Realm-of-the-Mammoth-Lords.md),  followings are the predominant social structure. Most followings, including the [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md), migrate across the land in tandem with the region’s native fauna and  are led by strong, wise leaders called [Mammoth Lord](questforthefrozenflame/docs/Backstory/Notions/Mammoth-Lord.md)s.
 
-*[Xiat](Xiat)'s note: our following is the [Broken Tusk](Broken-Tusk). But I guess I form a pretty neat following with [Kaska](Kaska), [Willow](Willow), and [Cali](Cali) too.*
+*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s note: our following is the [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md). But I guess I form a pretty neat following with [Kaska](questforthefrozenflame/docs/Backstory/Party-Members/Kaska.md), [Willow](questforthefrozenflame/docs/Backstory/Party-Members/Willow.md), and [Cali](questforthefrozenflame/docs/Backstory/Party-Members/Cali.md) too.*

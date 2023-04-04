@@ -16,15 +16,15 @@ status: alive
 | Good at              |                                            |
 | In Summary           | The head scout! She's responsible for training us. |
 
-![wipa.png](wipa.png)
+![wipa.png](questforthefrozenflame/docs/Images/People/wipa.png)
 
-Wipa has taken us onder her wing to train us to become the next generation of great [Broken Tusk](Broken-Tusk) scouts. She is also training [Pakano](Pakano).
+Wipa has taken us onder her wing to train us to become the next generation of great [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md) scouts. She is also training [Pakano](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Pakano.md).
 
-Her best friend and the father of her children, [Weohotan](Weohotan), died a few weeks ago in an accident while hunting aurochs with [Pakano](Pakano). Though all [Broken Tusks](Broken-Tusk) pitch in when it comes to raising children, Wipa will obviously need time to recover from the physical tolls of childbirth, and it will be many moons before she’s able to serve the following as a scout again.
+Her best friend and the father of her children, [Weohotan](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Weohotan.md), died a few weeks ago in an accident while hunting aurochs with [Pakano](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Pakano.md). Though all [Broken Tusks](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md) pitch in when it comes to raising children, Wipa will obviously need time to recover from the physical tolls of childbirth, and it will be many moons before she’s able to serve the following as a scout again.
 
-In the meantime, others in the following, such as the spirited hunter [Panuaku](Panuaku) and the knowledgeable young herder [Imek](Imek), will help further the characters’ training as scouts. As native [Broken Tusk](Broken-Tusk)s, these individuals can also teach the characters much about the history, customs, and values of the [Broken Tusk](Broken-Tusk) [following](following).
+In the meantime, others in the following, such as the spirited hunter [Panuaku](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Panuaku.md) and the knowledgeable young herder [Imek](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Imek.md), will help further the characters’ training as scouts. As native [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md)s, these individuals can also teach the characters much about the history, customs, and values of the [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md) [following](questforthefrozenflame/docs/Backstory/Notions/Following.md).
 
-Half-elf child of [Argakoa](Argakoa-the-Songsinger) and [Letsua](Letsua)
+Half-elf child of [Argakoa](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Argakoa-the-Songsinger.md) and [Letsua](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Letsua.md)
 
 
-*[Xiat](Xiat)'s note: Very nice lady. Knows a lot about hunting, but mostly sticks to herself during her pregnancy.*
+*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s note: Very nice lady. Knows a lot about hunting, but mostly sticks to herself during her pregnancy.*

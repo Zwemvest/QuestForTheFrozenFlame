@@ -8,11 +8,11 @@ Status: Alive
 | -------------------- | ------------------------------------- |
 | Pronouns             | He/him                                |
 | Ancestry             |                                       |
-| Class/Occupation     | [Mammoth Lord](Mammoth-Lord)                         |
+| Class/Occupation     | [Mammoth Lord](questforthefrozenflame/docs/Backstory/Notions/Mammoth-Lord.md)                         |
 | Age                  |                                       |
 | Alignment            |                                       |
 | Deity                |                                       |
 | Physical Description |                                       |
 | Good at              |                                       |
-| In Summary           | Husband to [Argakoa the Songsinger](Argakoa-the-Songsinger) |
+| In Summary           | Husband to [Argakoa the Songsinger](questforthefrozenflame/docs/Backstory/NPCs/Broken-Tusk/Argakoa-the-Songsinger.md) |
 

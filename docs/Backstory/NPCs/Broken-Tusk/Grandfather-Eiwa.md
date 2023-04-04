@@ -9,7 +9,7 @@ aliases: Eiwa, Grandfather Eiwa
 | -------------------- | -------------------------------------------------------------------- |
 | Pronouns             | He/him                                                               |
 | Ancestry             | Elvish                                                               |
-| Class/Occupation     |  [Mammoth Lord](Mammoth-Lord), Wise old grandfather, Leader of [Falcon House](Falcon-House)                               |
+| Class/Occupation     |  [Mammoth Lord](questforthefrozenflame/docs/Backstory/Notions/Mammoth-Lord.md), Wise old grandfather, Leader of [Falcon House](questforthefrozenflame/docs/Backstory/Organizations/Falcon-House.md)                               |
 | Age                  | Decades                                                              |
 | Alignment            |                                                                      |
 | Deity                |                                                                      |
@@ -17,4 +17,4 @@ aliases: Eiwa, Grandfather Eiwa
 | Good at              |                                                                      |
 | In Summary           |                                                                      |
 
-*[Xiat](Xiat)'s note: Everything flaps when he talks. Guess even elves start to suffer from wrinkles when they grow ancient.*
+*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s note: Everything flaps when he talks. Guess even elves start to suffer from wrinkles when they grow ancient.*

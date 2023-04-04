@@ -8,17 +8,17 @@ status: alive
 | -------------------- | --------------------------------------------------------------------- |
 | Pronouns             | She/her                                                               |
 | Ancestry             |                                                                       |
-| Class/Occupation     | [Mammoth](Mammoth) Herder                                                                |
+| Class/Occupation     | [Mammoth](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Mammoth.md) Herder                                                                |
 | Age                  |                                                                       |
 | Alignment            |                                                                       |
 | Deity                |                                                                       |
-| Physical Description | Small, young herder that's overly excited about the tribe's [Mammoths](Mammoth). |
-| Good at              | Info-dumping about [Mammoths](Mammoth)                                           |
+| Physical Description | Small, young herder that's overly excited about the tribe's [Mammoths](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Mammoth.md). |
+| Good at              | Info-dumping about [Mammoths](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Mammoth.md)                                           |
 | In Summary           | Autism-coded                                                          |
 
-![imek.png](imek.png)
-The knowledgeable young herder Imek will help further the characters’ training as scouts. As native [Broken Tusks](Broken-Tusk), she can also teach the characters much about the history, customs, and values of the [Broken Tusk](Broken-Tusk) [following](following).
+![imek.png](questforthefrozenflame/docs/Images/People/imek.png)
+The knowledgeable young herder Imek will help further the characters’ training as scouts. As native [Broken Tusks](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md), she can also teach the characters much about the history, customs, and values of the [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md) [following](questforthefrozenflame/docs/Backstory/Notions/Following.md).
 
-Imek (female [human](human)) of [Falcon House](Falcon-House) loves animals and spends her days brushing out the woolly coats of the following’s domesticated mammoths. Other children bully and ostracize her, calling her a tattletale and a know-nothing, though her nine winters make her older than most of her taunters. She currently lacks the physical strength or friends to stand up to her rivals, but she hopes to one day become a great [Mammoth](Mammoth) rider all the same.
+Imek (female [human](questforthefrozenflame/docs/Backstory/Notions/Races/Human.md)) of [Falcon House](questforthefrozenflame/docs/Backstory/Organizations/Falcon-House.md) loves animals and spends her days brushing out the woolly coats of the following’s domesticated mammoths. Other children bully and ostracize her, calling her a tattletale and a know-nothing, though her nine winters make her older than most of her taunters. She currently lacks the physical strength or friends to stand up to her rivals, but she hopes to one day become a great [Mammoth](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Mammoth.md) rider all the same.
 
-*[Xiat](Xiat)'s note: She can infodump about the [Broken Tusk](Broken-Tusk)s [Mammoth](Mammoth)s for days straight if you let her. I let her, it was great.*
+*[Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)'s note: She can infodump about the [Broken Tusk](questforthefrozenflame/docs/Backstory/Organizations/Broken-Tusk.md)s [Mammoth](questforthefrozenflame/docs/Backstory/NPCs/Fauna/Mammoth.md)s for days straight if you let her. I let her, it was great.*
