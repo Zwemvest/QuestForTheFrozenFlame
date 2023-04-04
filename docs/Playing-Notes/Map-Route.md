@@ -1,10 +1,11 @@
 ![map](questforthefrozenflame/docs/Images/Locations/map.PNG)
 ## Legend: 
 For detailed geographical map, see [Realm of the Mammoth Lords](questforthefrozenflame/docs/Backstory/Places/Realm-of-the-Mammoth-Lords.md)
-Settlements (white dot, black text)  
-- 1. [Hillcross](questforthefrozenflame/docs/Backstory/Places/Settlements/Hillcross.md)
-Stopped locations (blue dot, white text)  
-Travels (light-blue line)  
+
+### Settlements (white dot, black text)  
+* 1.  [Hillcross](questforthefrozenflame/docs/Backstory/Places/Settlements/Hillcross.md)
+### Stopped locations (blue dot, white text)  
+### Travels (light-blue line)  
 
 ## Travels:
 ### 1 : [25 Calistril 4722](questforthefrozenflame/docs/Playing-Notes/Session-1.md#25%20Calistril%204722)-[1 Pharast 4772](questforthefrozenflame/docs/Playing-Notes/Session-3.md#1%20Pharast%204722)

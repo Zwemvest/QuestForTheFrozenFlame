@@ -1,5 +1,6 @@
 ---
 Tag: Place,Region
+alias: Irriseni
 ---
 # Irrisen
 ![Irrisen.jpg](questforthefrozenflame/docs/Images/Locations/Irrisen.jpg)

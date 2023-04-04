@@ -15,7 +15,7 @@
 -  [Kaskas spear](questforthefrozenflame/docs/Backstory/Items/Kaskas-spear.md) ([27 Calistril 4722](questforthefrozenflame/docs/Playing-Notes/Session-2.md#27%20Calistril%204722))
 
 ## [Xiat](questforthefrozenflame/docs/Backstory/Party-Members/Xiat.md)
-[Hunter's Bane Talisman](questforthefrozenflame/docs/Backstory/Items/Hunters-Bane-Talisman.md) ([27 Calistril 4722](questforthefrozenflame/docs/Playing-Notes/Session-2.md#27%20Calistril%204722))
+* [Hunter's Bane Talisman](questforthefrozenflame/docs/Backstory/Items/Hunters-Bane-Talisman.md) ([27 Calistril 4722](questforthefrozenflame/docs/Playing-Notes/Session-2.md#27%20Calistril%204722))
 
 ## [Teeththief](questforthefrozenflame/docs/Backstory/Party-Members/Teeththief.md)
-[Mudlily](questforthefrozenflame/docs/Backstory/Items/Mudlily.md)  ([27 Calistril 4722](questforthefrozenflame/docs/Playing-Notes/Session-2.md#27%20Calistril%204722))
+* [Mudlily](questforthefrozenflame/docs/Backstory/Items/Mudlily.md)  ([27 Calistril 4722](questforthefrozenflame/docs/Playing-Notes/Session-2.md#27%20Calistril%204722))

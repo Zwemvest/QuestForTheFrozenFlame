@@ -1,0 +1,6 @@
+---
+Tag: history
+Alias: Desna's Vengeance
+---
+# Desna's Vengeance
+In a short war known as [Desna](questforthefrozenflame/docs/Backstory/NPCs/Deities/Desna.md)'s Vengeance, an enormous force from the [Realm of the Mammoth Lords](questforthefrozenflame/docs/Backstory/Places/Realm-of-the-Mammoth-Lords.md) under the command of a priest of [Desna](questforthefrozenflame/docs/Backstory/NPCs/Deities/Desna.md) named Anok drives the [Irriseni](questforthefrozenflame/docs/Backstory/Places/Irrisen.md) occupiers back across the [Gullik River](questforthefrozenflame/docs/Backstory/Places/Geographical-Features/Gullik-River.md). [Irrisen](questforthefrozenflame/docs/Backstory/Places/Irrisen.md) loses all the territory it had gained during the [Great Eastern War](questforthefrozenflame/docs/Backstory/History/Great-Eastern-War.md), along with the Rimetusk provincial capital of [Tashagrot](questforthefrozenflame/docs/Backstory/Places/Places-of-Interest/Ruins-of-Tashagrot.md), which is razed. The supernatural winter that had overtaken the liberated land, vanishes with its occupiers.
